@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+.env
+
+outputs/
+data/cache/
+wandb/
+logs/
+*.log
+
+# 学習成果物(大きいので除外。アダプタは別途公開する場合あり)
+*.bin
+*.safetensors
+*.gguf
+
+.DS_Store

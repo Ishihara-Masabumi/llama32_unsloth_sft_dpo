@@ -88,12 +88,12 @@ def main() -> None:
         optim="adamw_8bit",
         seed=args.seed,
         report_to="none",
-        max_seq_length=MAX_SEQ_LEN,
+        max_length=MAX_SEQ_LEN,
         dataset_text_field="text",
         packing=False,
     )
 
-    trainer = SFTTrainer(model=model, tokenizer=tokenizer, train_dataset=ds, args=cfg)
+    trainer = SFTTrainer(model=model, processing_class=tokenizer, train_dataset=ds, args=cfg)
     trainer.train()
     model.save_pretrained(args.output_dir)
     tokenizer.save_pretrained(args.output_dir)

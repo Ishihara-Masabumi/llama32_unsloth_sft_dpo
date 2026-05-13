@@ -92,14 +92,14 @@ def main() -> None:
         optim="adamw_8bit",
         seed=args.seed,
         report_to="none",
-        max_seq_length=MAX_SEQ_LEN,
+        max_length=MAX_SEQ_LEN,
         dataset_text_field="text",
         packing=False,
     )
 
     trainer = SFTTrainer(
         model=model,
-        tokenizer=tokenizer,
+        processing_class=tokenizer,
         train_dataset=ds,
         args=cfg,
     )

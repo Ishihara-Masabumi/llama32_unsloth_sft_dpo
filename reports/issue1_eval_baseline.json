@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "model": "meta-llama/Llama-3.2-3B-Instruct",
+    "adapter": null,
+    "n": 1119,
+    "correct": 811,
+    "accuracy": 0.7247542448614834,
+    "unparsable": 35,
+    "note": "寛容パーサ([ANSWER] X > X. > \bX\b の順)。職務経歴書の22.16%は厳格パーサ前提のため直接比較不可。"
+  }
+}

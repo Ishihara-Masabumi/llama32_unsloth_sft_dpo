@@ -15,6 +15,8 @@ import json
 from pathlib import Path
 
 import torch
+# cuDNN SDPA は L40S + 一部入力形状で "No valid engine configs" を出すので無効化(flash/efficient/math にフォールバック)
+torch.backends.cuda.enable_cudnn_sdp(False)
 from datasets import Dataset
 from trl import DPOConfig, DPOTrainer
 
@@ -73,6 +75,8 @@ def main() -> None:
     train_ds = load_jsonl(args.train_jsonl)
     eval_ds = load_jsonl(args.eval_jsonl)
 
+    pad_tok = tokenizer.pad_token if tokenizer.pad_token else tokenizer.eos_token
+
     cfg = DPOConfig(
         output_dir=args.output_dir,
         num_train_epochs=args.epochs,
@@ -83,9 +87,10 @@ def main() -> None:
         lr_scheduler_type="cosine",
         warmup_ratio=0.03,
         logging_steps=20,
-        save_strategy="epoch",
-        save_total_limit=1,
-        eval_strategy="epoch",
+        save_strategy="steps",
+        save_steps=300,
+        save_total_limit=2,
+        eval_strategy="no",
         bf16=torch.cuda.is_bf16_supported(),
         fp16=not torch.cuda.is_bf16_supported(),
         optim="adamw_8bit",
@@ -93,13 +98,14 @@ def main() -> None:
         report_to="none",
         max_length=MAX_SEQ_LEN,
         max_prompt_length=MAX_SEQ_LEN // 2,
+        pad_token=pad_tok,
     )
 
     trainer = DPOTrainer(
         model=model,
         ref_model=None,
         args=cfg,
-        tokenizer=tokenizer,
+        processing_class=tokenizer,
         train_dataset=train_ds,
         eval_dataset=eval_ds,
     )

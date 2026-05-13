@@ -15,7 +15,7 @@ from pathlib import Path
 
 import torch
 
-MAX_SEQ_LEN = 1024
+MAX_SEQ_LEN = 4096
 
 
 def conditional_logprob(model, tokenizer, prompt: str, response: str) -> float:
@@ -27,16 +27,22 @@ def conditional_logprob(model, tokenizer, prompt: str, response: str) -> float:
     full_ids = tokenizer.apply_chat_template(
         full_messages, add_generation_prompt=False, return_tensors="pt"
     ).to(model.device)
+    # 長すぎる場合は MAX_SEQ_LEN で切る(末尾を残しても prompt 部分が切られると評価が崩れるので、応答が長い場合はサンプルをスキップ)
+    if full_ids.shape[1] > MAX_SEQ_LEN:
+        return float("nan")
     if full_ids.shape[1] <= prompt_ids.shape[1]:
         return float("-inf")
     with torch.no_grad():
         out = model(full_ids)
-    logits = out.logits[:, :-1, :]
-    targets = full_ids[:, 1:]
+    # モデルが内部で切る可能性に備え、logits/targets の長さを一致させる
+    L = min(out.logits.shape[1], full_ids.shape[1])
+    logits = out.logits[:, : L - 1, :]
+    targets = full_ids[:, 1:L]
     log_probs = torch.log_softmax(logits.float(), dim=-1)
     token_lp = log_probs.gather(-1, targets.unsqueeze(-1)).squeeze(-1)
-    # response 部分のみ
-    start = prompt_ids.shape[1] - 1
+    start = max(0, prompt_ids.shape[1] - 1)
+    if start >= token_lp.shape[1]:
+        return float("nan")
     resp_lp = token_lp[0, start:]
     return float(resp_lp.sum().item())
 
@@ -66,23 +72,34 @@ def main() -> None:
     if args.limit:
         rows = rows[: args.limit]
 
+    import math
     correct = 0
+    counted = 0
+    skipped = 0
     details = []
     for i, r in enumerate(rows):
         lp_c = conditional_logprob(model, tokenizer, r["prompt"], r["chosen"])
         lp_r = conditional_logprob(model, tokenizer, r["prompt"], r["rejected"])
+        if math.isnan(lp_c) or math.isnan(lp_r):
+            skipped += 1
+            details.append({"i": i, "lp_chosen": lp_c, "lp_rejected": lp_r, "skipped": True})
+            continue
         win = lp_c > lp_r
+        counted += 1
         if win:
             correct += 1
         details.append({"i": i, "lp_chosen": lp_c, "lp_rejected": lp_r, "chosen_preferred": win})
         if (i + 1) % 50 == 0:
-            print(f"[{i+1}/{len(rows)}] chosen_pref_acc={correct/(i+1):.4f}")
+            denom = max(1, counted)
+            print(f"[{i+1}/{len(rows)}] chosen_pref_acc={correct/denom:.4f} skipped={skipped}")
 
-    acc = correct / len(rows)
+    acc = correct / max(1, counted)
     summary = {
         "model": args.model,
         "adapter": args.adapter,
         "n": len(rows),
+        "counted": counted,
+        "skipped_too_long": skipped,
         "chosen_preference_accuracy": acc,
     }
     Path(args.output).parent.mkdir(parents=True, exist_ok=True)

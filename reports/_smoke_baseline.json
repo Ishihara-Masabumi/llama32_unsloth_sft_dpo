@@ -1,0 +1,47 @@
+{
+  "summary": {
+    "model": "meta-llama/Llama-3.2-3B-Instruct",
+    "adapter": null,
+    "n": 5,
+    "correct": 4,
+    "accuracy": 0.8,
+    "unparsable": 0
+  },
+  "details": [
+    {
+      "i": 0,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "正解は C. マザーボードです。"
+    },
+    {
+      "i": 1,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "最も適切な答えは C です。田んぼが広がる風景を「田園」という言葉で表すことが"
+    },
+    {
+      "i": 2,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "正解は A です。"
+    },
+    {
+      "i": 3,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "答えは B"
+    },
+    {
+      "i": 4,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "答えは A"
+    }
+  ]
+}

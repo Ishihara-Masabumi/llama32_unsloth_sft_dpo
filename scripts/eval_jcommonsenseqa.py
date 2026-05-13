@@ -28,14 +28,31 @@ def build_user_prompt(row: dict) -> str:
     )
 
 
-def parse_answer(text: str) -> str | None:
-    """生成テキストから A〜E のいずれかを取り出す。優先順位: [ANSWER] X > 行頭 X. > 単独 X。"""
-    m = re.search(r"\[ANSWER\]\s*([A-E])", text)
-    if m:
-        return m.group(1)
-    m = re.search(r"(?m)^\s*([A-E])[.\s]", text)
-    if m:
-        return m.group(1)
+def parse_answer(text: str, strict: str = "lenient") -> str | None:
+    """生成テキストから A〜E のいずれかを取り出す。
+
+    strict:
+      - "lenient" (デフォルト) : [ANSWER] X > 行頭 X. > 単独 X
+      - "answer_tag"           : [ANSWER] X のみ
+      - "letter_text"          : 行頭 X. (またはテキスト先頭の X) のみ
+    """
+    if strict in ("lenient", "answer_tag"):
+        m = re.search(r"\[ANSWER\]\s*([A-E])", text)
+        if m:
+            return m.group(1)
+        if strict == "answer_tag":
+            return None
+    if strict in ("lenient", "letter_text"):
+        m = re.search(r"(?m)^\s*([A-E])[.\s]", text)
+        if m:
+            return m.group(1)
+        # 先頭(空白を許す)で X. を試す
+        m = re.match(r"\s*([A-E])\b", text)
+        if m and strict == "letter_text":
+            return m.group(1)
+        if strict == "letter_text":
+            return None
+    # lenient のみ最後のフォールバック
     m = re.search(r"\b([A-E])\b", text)
     if m:
         return m.group(1)
@@ -50,6 +67,7 @@ def main() -> None:
     ap.add_argument("--output", required=True)
     ap.add_argument("--max-new-tokens", type=int, default=32)
     ap.add_argument("--limit", type=int, default=0, help="0=all")
+    ap.add_argument("--strict", default="lenient", choices=["lenient", "answer_tag", "letter_text"])
     args = ap.parse_args()
 
     model, tokenizer = FastLanguageModel.from_pretrained(
@@ -85,7 +103,7 @@ def main() -> None:
                 pad_token_id=tokenizer.eos_token_id,
             )
         gen = tokenizer.decode(out[0][inputs.shape[1]:], skip_special_tokens=True)
-        pred_letter = parse_answer(gen)
+        pred_letter = parse_answer(gen, strict=args.strict)
         if pred_letter is None:
             unparsable += 1
             pred = -1
@@ -108,6 +126,7 @@ def main() -> None:
     summary = {
         "model": args.model,
         "adapter": args.adapter,
+        "strict": args.strict,
         "n": len(rows),
         "correct": correct,
         "accuracy": acc,

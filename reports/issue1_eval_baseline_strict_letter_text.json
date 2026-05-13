@@ -1,0 +1,7846 @@
+{
+  "summary": {
+    "model": "meta-llama/Llama-3.2-3B-Instruct",
+    "adapter": null,
+    "strict": "letter_text",
+    "n": 1119,
+    "correct": 9,
+    "accuracy": 0.00804289544235925,
+    "unparsable": 1109
+  },
+  "details": [
+    {
+      "i": 0,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. マザーボードです。"
+    },
+    {
+      "i": 1,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。田んぼが広がる風景を「田園」という言葉で表すことが"
+    },
+    {
+      "i": 2,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。"
+    },
+    {
+      "i": 3,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 4,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 5,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 6,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 7,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 携帯"
+    },
+    {
+      "i": 8,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。喫煙は、タバコを吸う事を指します。"
+    },
+    {
+      "i": 9,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 危険運転です。"
+    },
+    {
+      "i": 10,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。伸び縮するものは、バネです。バネは、伸びると大きく"
+    },
+    {
+      "i": 11,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 12,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。"
+    },
+    {
+      "i": 13,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 14,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 15,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 16,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 17,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は「プレート」です。プレートは鉄筋コンクリートで作られる中高層の建築物の典型"
+    },
+    {
+      "i": 18,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. スープです。"
+    },
+    {
+      "i": 19,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。卓、台、表などの意味を持つのはテーブルです。"
+    },
+    {
+      "i": 20,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。ガラス製のコップは、飲み物を入れるための器具としてよく使われています。"
+    },
+    {
+      "i": 21,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。猫は家で飼育できる動物です。ライオン、象、鏡は家"
+    },
+    {
+      "i": 22,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 23,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 24,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。\n\n漢字の読みを示すために、脇に振ってある仮名は「振り仮名」"
+    },
+    {
+      "i": 25,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 26,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 27,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D"
+    },
+    {
+      "i": 28,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。リフトは、スキー場や山などで高所に張られたケーブルにアームが付き、そこ"
+    },
+    {
+      "i": 29,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 30,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E"
+    },
+    {
+      "i": 31,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 32,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 33,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 伝えるです。"
+    },
+    {
+      "i": 34,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。メビウスは金管楽器です。"
+    },
+    {
+      "i": 35,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D です。川で見かけることが多いものは流木です。"
+    },
+    {
+      "i": 36,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. グラスです。ワインは、特に冷たい温度で保存されるため、グラスに入れるのが最適です。"
+    },
+    {
+      "i": 37,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. ワシントンです。"
+    },
+    {
+      "i": 38,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 39,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 40,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D. 国です。"
+    },
+    {
+      "i": 41,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A. 浮き輪です。"
+    },
+    {
+      "i": 42,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。はがきを配達してくれるとこは、車です。"
+    },
+    {
+      "i": 43,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. ストアです。"
+    },
+    {
+      "i": 44,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 45,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 46,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 47,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 48,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。宿は、刑事司法制度における収監の場所としては、一般的に認め"
+    },
+    {
+      "i": 49,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 50,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C. 動揺です。"
+    },
+    {
+      "i": 51,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 52,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。近代科学（C）が最も適切な選択肢です。近代科学は、19から20"
+    },
+    {
+      "i": 53,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 身振り"
+    },
+    {
+      "i": 54,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 55,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。チューチューとは、スナックや食べ物を食べる動物のことです。スナックは、"
+    },
+    {
+      "i": 56,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。"
+    },
+    {
+      "i": 57,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。ミサを唱える所として、寺院は日本の伝統的な宗教施設"
+    },
+    {
+      "i": 58,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 食物です。"
+    },
+    {
+      "i": 59,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 60,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. ペンギンです。ペンギンは寒い地域にすむ飛べない鳥です。"
+    },
+    {
+      "i": 61,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 62,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。\n\n「ジェンダーフリー」は、ジェンダーの固定観念や偏見をなくし、社会での役割"
+    },
+    {
+      "i": 63,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 64,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えはAです。"
+    },
+    {
+      "i": 65,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 66,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。"
+    },
+    {
+      "i": 67,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解はAです。イランと戦争した国はイラクでした。"
+    },
+    {
+      "i": 68,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D"
+    },
+    {
+      "i": 69,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 70,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 71,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n3Dプリンターは、複雑な立体物を簡単に作ることができる機械です。"
+    },
+    {
+      "i": 72,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. イタチです。"
+    },
+    {
+      "i": 73,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 74,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B\n\n理由: スーツ姿の男女が、希望する業種の話に参加するのは、会社説明会ということです"
+    },
+    {
+      "i": 75,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 76,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 家具です。"
+    },
+    {
+      "i": 77,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n「メーカー」は、特定の生産者に作られた品物のことを指します。た"
+    },
+    {
+      "i": 78,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は C です。ダンスでミキサーといえば、オクラホマです。"
+    },
+    {
+      "i": 79,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 80,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。\n\n国会、市、県、町にいるものは、国会議員、市議会議員、県"
+    },
+    {
+      "i": 81,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 82,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 83,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。イベントとは、特に大規模なイベントを指します。例えば"
+    },
+    {
+      "i": 84,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。ローターは、ヘリコプターを飛ばすために使用される特殊な機械です。ローターの"
+    },
+    {
+      "i": 85,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D. 生命です。"
+    },
+    {
+      "i": 86,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 87,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 88,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B"
+    },
+    {
+      "i": 89,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 90,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 91,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A. 春です。"
+    },
+    {
+      "i": 92,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E. 水の上です。"
+    },
+    {
+      "i": 93,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 94,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 95,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解はEです。"
+    },
+    {
+      "i": 96,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。株式を取引する場所は、金融取引の場として機能する場所です。"
+    },
+    {
+      "i": 97,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. ペルーです。マチュピチュはペルーで有名な南アメリカの火山です。"
+    },
+    {
+      "i": 98,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 99,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 100,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 101,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 102,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 103,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 104,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。国外の人にわかりやすくした表記はローマ字です。"
+    },
+    {
+      "i": 105,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。モノ作りが得意な人は、手が器用であることが多いです。"
+    },
+    {
+      "i": 106,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 107,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 108,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 109,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 農地です。"
+    },
+    {
+      "i": 110,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 111,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D"
+    },
+    {
+      "i": 112,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 113,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 114,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 115,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 116,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。前屈姿勢を表す言葉は「前かがみになる」です。"
+    },
+    {
+      "i": 117,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。"
+    },
+    {
+      "i": 118,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A\n\n理由: コウモリは岩洞や木の穴など、暗い場所に住む動物です。"
+    },
+    {
+      "i": 119,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。上着の首回りは通常、ネクタイで回ることが多いです。"
+    },
+    {
+      "i": 120,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. シートです。"
+    },
+    {
+      "i": 121,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 122,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。鍵のことは、キーです。"
+    },
+    {
+      "i": 123,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 124,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. レジです。"
+    },
+    {
+      "i": 125,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A. 竜巻です。"
+    },
+    {
+      "i": 126,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。"
+    },
+    {
+      "i": 127,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 128,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 129,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。"
+    },
+    {
+      "i": 130,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。国を動かす機関とは、政治や経済、社会などの国民の生活を支配する力"
+    },
+    {
+      "i": 131,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。ガスステーションは、ガソリンやガスを販売する所として"
+    },
+    {
+      "i": 132,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 133,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。"
+    },
+    {
+      "i": 134,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。電気でお湯を沸かせるのは電気式ポットです。"
+    },
+    {
+      "i": 135,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 136,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 137,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 138,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 139,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 140,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 141,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D です。"
+    },
+    {
+      "i": 142,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 143,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解はEです。ストアは日本語で「店」を表す単語です。"
+    },
+    {
+      "i": 144,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 朝鮮民主主義人民共和国の通称は「北朝鮮」です。"
+    },
+    {
+      "i": 145,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. 舟です。"
+    },
+    {
+      "i": 146,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. アドバンテージです。"
+    },
+    {
+      "i": 147,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 148,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 149,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。和平は、争いをなくすことの意味を表しています。"
+    },
+    {
+      "i": 150,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 151,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 152,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 153,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 元気でいるです。"
+    },
+    {
+      "i": 154,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 155,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。\n\n原子核は、原子の中で、プロトンと中性子が集まって形成される核の"
+    },
+    {
+      "i": 156,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 157,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 158,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。犬は木を噛む動物として知られています。"
+    },
+    {
+      "i": 159,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D"
+    },
+    {
+      "i": 160,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。\n\n製図版は、図面や図を表現したもので、見ることで理解しやすいものです"
+    },
+    {
+      "i": 161,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D"
+    },
+    {
+      "i": 162,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n冷蔵庫 (A) は食材を保存するためのスペースです。\nホームスクール (B) は"
+    },
+    {
+      "i": 163,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. 福音主義です。"
+    },
+    {
+      "i": 164,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 165,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 166,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D です。 \n\nお月様は、夜空に見える月の形を表す日本語の表"
+    },
+    {
+      "i": 167,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 168,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 金塊です。"
+    },
+    {
+      "i": 169,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 170,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。"
+    },
+    {
+      "i": 171,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。料理を盛り付けるときに使うものは、皿です。"
+    },
+    {
+      "i": 172,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。海は、地球の表面の広く一面に水をたたえた部分を指します。"
+    },
+    {
+      "i": 173,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D. 空です。太陽や月は空の天空で現れます。"
+    },
+    {
+      "i": 174,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 175,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 176,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。ウォークマンは、ソニーによって開発された携帯電話です。"
+    },
+    {
+      "i": 177,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 178,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A. 金縛りです。"
+    },
+    {
+      "i": 179,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は「B. 陰謀」です。\n\n日本の警察法では、捜査二課は、陰謀"
+    },
+    {
+      "i": 180,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 181,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 182,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 183,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 184,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\nお姉様は、年上の女性のきょうだいを敬う言い方です。"
+    },
+    {
+      "i": 185,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。\n\n道路にあるふた付きの穴は、一般的に「マンホール」と呼ばれます。マンホ"
+    },
+    {
+      "i": 186,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 187,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。領土と人と自治権を持ったものは国です。"
+    },
+    {
+      "i": 188,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. 家です。"
+    },
+    {
+      "i": 189,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 190,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 191,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C \"知識\" です。\n\n過剰摂取とは、特に特定の物質の摂取が過"
+    },
+    {
+      "i": 192,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 駅です。"
+    },
+    {
+      "i": 193,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 194,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。\n\nお仏壇で唱えるものはお経です。"
+    },
+    {
+      "i": 195,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D です。学生が教科書を入れる物は、カバンです。"
+    },
+    {
+      "i": 196,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 197,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 198,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 199,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。中国は、北京が首都である国です。"
+    },
+    {
+      "i": 200,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。非常口は、ある種類の問題が発生したりしたときに使用するための"
+    },
+    {
+      "i": 201,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 202,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 203,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 204,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。皿を片付ける場所としては、棚が最も適切な場所です。"
+    },
+    {
+      "i": 205,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。八百屋は、一般的に野菜や果物を売る店として知られています"
+    },
+    {
+      "i": 206,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。インターネットは、コンピュータやデバイスを接続して、世界中の情報や人々"
+    },
+    {
+      "i": 207,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 貯金する"
+    },
+    {
+      "i": 208,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 209,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。\n\nレアアースとは、特に白金族元素を指します。白金族元素は、金、銀"
+    },
+    {
+      "i": 210,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 生命です。生物が活動する力は、生物の生命力や活力です。"
+    },
+    {
+      "i": 211,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D です。行政区画とは、地方公共団体や自治体を区画したものです。"
+    },
+    {
+      "i": 212,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解はCです。スキーは、雪山を滑るスポーツです。"
+    },
+    {
+      "i": 213,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な選択肢は D. 居間です。"
+    },
+    {
+      "i": 214,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 215,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 216,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 217,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 歌です。"
+    },
+    {
+      "i": 218,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。ビールを入れる入れ物といえば、ビンです。"
+    },
+    {
+      "i": 219,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 220,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 221,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は C です。銃で使われることがあるものは雪です。雪は、雪の球形の形を"
+    },
+    {
+      "i": 222,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 223,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 224,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D."
+    },
+    {
+      "i": 225,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 226,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 227,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 228,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. チーフです。"
+    },
+    {
+      "i": 229,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。てっぺんは、頭の上にある部分を指します。"
+    },
+    {
+      "i": 230,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 231,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 232,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。"
+    },
+    {
+      "i": 233,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 234,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 235,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. ペーパーです。"
+    },
+    {
+      "i": 236,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。ポストに入れたハガキを送るのは郵便です。"
+    },
+    {
+      "i": 237,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。見物人は、聴衆の前で物事について話す人です。"
+    },
+    {
+      "i": 238,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 239,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 240,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。スタジオは、写真や映像などの撮影収録のために使われる施設です。"
+    },
+    {
+      "i": 241,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。\n\n人間が主に大小便の排泄に使用する器具であり、古くは移動式もしく"
+    },
+    {
+      "i": 242,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 243,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D です。"
+    },
+    {
+      "i": 244,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B。台所です。"
+    },
+    {
+      "i": 245,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 246,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 247,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 248,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 249,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 表面です。"
+    },
+    {
+      "i": 250,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。野球は、特にプロ野球や高校野球などの競技として、特に"
+    },
+    {
+      "i": 251,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 252,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 253,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。文字を送る郵便は「便箋」です。"
+    },
+    {
+      "i": 254,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 255,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. アルコールです。"
+    },
+    {
+      "i": 256,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。モンベルはロシアと隣接する国です。"
+    },
+    {
+      "i": 257,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。犬科イヌ属に属する哺乳類は、犬（C. 犬）です。"
+    },
+    {
+      "i": 258,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 259,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。"
+    },
+    {
+      "i": 260,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n田畑から農作物を取り入れることは、田植えと呼ばれます。田畑は"
+    },
+    {
+      "i": 261,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. ダウンタウンです。"
+    },
+    {
+      "i": 262,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 263,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 264,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 265,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 266,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 267,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 268,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A. 庫入れです。"
+    },
+    {
+      "i": 269,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 270,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。"
+    },
+    {
+      "i": 271,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 272,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。"
+    },
+    {
+      "i": 273,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 274,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. モールスです。"
+    },
+    {
+      "i": 275,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 276,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 277,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 278,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 279,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答え: A. 収穫"
+    },
+    {
+      "i": 280,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 281,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 282,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。\n\n陰電子は、原子や分子に存在する負の電荷を持つ電子です。"
+    },
+    {
+      "i": 283,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。シールは、ノートや紙に貼ることができる遊びやデコレーション用の"
+    },
+    {
+      "i": 284,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。忍辱波羅蜜は、ロイヤルゼリーと同様に、巣箱で飼われる"
+    },
+    {
+      "i": 285,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 286,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。"
+    },
+    {
+      "i": 287,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 288,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。キリスト教で礼拝を行う建物は礼拝堂です。"
+    },
+    {
+      "i": 289,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は A です。ペンチは、金属を打ち合わせて形を変えるために使用される道具です。ツ"
+    },
+    {
+      "i": 290,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 291,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. ノートパッドです。"
+    },
+    {
+      "i": 292,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。"
+    },
+    {
+      "i": 293,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 294,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n長編動画をスクリーンに映す際の男の出演者を「無声映画」と"
+    },
+    {
+      "i": 295,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。ドラえもんは、土管の中で寝ていることがよくあります。"
+    },
+    {
+      "i": 296,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 297,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 298,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 299,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n体重を減らすという表現は、自身の質量を軽くすることを表しています。"
+    },
+    {
+      "i": 300,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 桶狭間です。"
+    },
+    {
+      "i": 301,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 302,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B\n\n服をかえることは、服を新しいものに置き換えることを意味します。"
+    },
+    {
+      "i": 303,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な選択肢は C です。"
+    },
+    {
+      "i": 304,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. パーテーションです。"
+    },
+    {
+      "i": 305,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D です。"
+    },
+    {
+      "i": 306,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。ジャンプは、動物が空を跳ぶ動作を表す日本語で、 \"とぶ\" "
+    },
+    {
+      "i": 307,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 308,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 虹です。"
+    },
+    {
+      "i": 309,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 310,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。寝具を収納する空間としては、押し入れが最も適切な"
+    },
+    {
+      "i": 311,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 312,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 殺害です。"
+    },
+    {
+      "i": 313,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。"
+    },
+    {
+      "i": 314,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 詩人です。"
+    },
+    {
+      "i": 315,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 316,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 317,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 318,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 319,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D"
+    },
+    {
+      "i": 320,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. サンです。"
+    },
+    {
+      "i": 321,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は C です。 \"右腕\" は、部下を指す日本語の表現です。"
+    },
+    {
+      "i": 322,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 語るです。"
+    },
+    {
+      "i": 323,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 324,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 325,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 総合する"
+    },
+    {
+      "i": 326,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 医師です。"
+    },
+    {
+      "i": 327,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 328,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 329,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。車の排気音を小さくするために使われるのはサイレンサーです。"
+    },
+    {
+      "i": 330,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 331,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 332,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 333,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A\n\n理由: 水辺に生息する生き物を主に飼育する道具として、水槽が最も"
+    },
+    {
+      "i": 334,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 335,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解はE. 防衛です。"
+    },
+    {
+      "i": 336,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。"
+    },
+    {
+      "i": 337,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 338,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B"
+    },
+    {
+      "i": 339,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。"
+    },
+    {
+      "i": 340,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 341,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 天井です。"
+    },
+    {
+      "i": 342,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 343,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 344,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 345,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 千葉市です。"
+    },
+    {
+      "i": 346,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 347,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D"
+    },
+    {
+      "i": 348,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 349,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B。"
+    },
+    {
+      "i": 350,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 351,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 352,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 353,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 354,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 355,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ニューヨークです。"
+    },
+    {
+      "i": 356,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 357,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 358,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. クアラルンプールです。"
+    },
+    {
+      "i": 359,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 360,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は C です。エビは、食べて美味しいとされるものの1つです。"
+    },
+    {
+      "i": 361,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の答えは C です。"
+    },
+    {
+      "i": 362,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。パスタはイタリアの伝統的な料理であり、イタリアはパスタの美味しい国として"
+    },
+    {
+      "i": 363,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 364,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。アメリカには 50 州があり、そのうちの 1 つは ネブラスカ (Nebraska) です。"
+    },
+    {
+      "i": 365,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. 外出です。"
+    },
+    {
+      "i": 366,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 367,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 368,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 369,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えはAです。拘置所は、警察が逮捕した人を収容する場所です。"
+    },
+    {
+      "i": 370,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 371,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。食洗機は、自動で洗濯する機械で、食器やコップなどの表面を洗"
+    },
+    {
+      "i": 372,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。\n\n現実で起こりそうなことを \"現実\" と呼ぶことが多いです。"
+    },
+    {
+      "i": 373,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は「人身売買」です。\n\n人身売買とは、人を売り買うことです。つまり、"
+    },
+    {
+      "i": 374,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 375,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。フライパンは調理器具の一種です。"
+    },
+    {
+      "i": 376,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A. 昆虫です。"
+    },
+    {
+      "i": 377,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 378,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 379,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 380,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 381,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 382,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. マラッカです。マレーシアで有名な海峡はマラッカ海峡です"
+    },
+    {
+      "i": 383,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. 販売員です。"
+    },
+    {
+      "i": 384,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 385,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A. アパートです。"
+    },
+    {
+      "i": 386,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 387,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 388,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 389,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。\n\n鉛筆は、書き、書き下ろし、計算、記録などの書き物を作るために"
+    },
+    {
+      "i": 390,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 391,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. スーパーです。"
+    },
+    {
+      "i": 392,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 393,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "Eが正解です。長崎県は日本の島国の一つで、長崎市が県都です。"
+    },
+    {
+      "i": 394,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 395,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。介護を必要とするお年寄りが利用する場所として、介護施設は"
+    },
+    {
+      "i": 396,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. ドアです。"
+    },
+    {
+      "i": 397,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。"
+    },
+    {
+      "i": 398,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 399,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。サメは海に暮らす生き物です。"
+    },
+    {
+      "i": 400,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. カーオーディオです。"
+    },
+    {
+      "i": 401,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 声です。"
+    },
+    {
+      "i": 402,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. 料理です。"
+    },
+    {
+      "i": 403,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A. ヒトデです。"
+    },
+    {
+      "i": 404,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解はEです。リモートコントロール（リモートコントロール）とは、機器を離れた所から操作"
+    },
+    {
+      "i": 405,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。落花生は日本の原産であり、多くの地域で栽培されていますが"
+    },
+    {
+      "i": 406,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。"
+    },
+    {
+      "i": 407,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. スマトラ島です。スマトラ島はインドネシアの島で、世界で6番目に大き"
+    },
+    {
+      "i": 408,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 409,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 410,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 411,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. ニューヨークです。"
+    },
+    {
+      "i": 412,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 413,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 414,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 415,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 416,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 417,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。物を収納する部屋としては、収納室が最も適切な選択�"
+    },
+    {
+      "i": 418,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。"
+    },
+    {
+      "i": 419,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 420,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 421,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 森林です。"
+    },
+    {
+      "i": 422,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。"
+    },
+    {
+      "i": 423,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。\n\n土と氷が混ざって固まっているものは、コンクリートです。コンクリートは、水"
+    },
+    {
+      "i": 424,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は C です。\n\n書斎、書堂、書店、書房はすべて、書物や書類を扱"
+    },
+    {
+      "i": 425,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 426,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 427,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。物を測ったりする道具は「ものさし」です。"
+    },
+    {
+      "i": 428,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 429,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。野球場は、スポーツをしているための特に設計された場所であり、他の選択�"
+    },
+    {
+      "i": 430,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. シアターです。"
+    },
+    {
+      "i": 431,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 432,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C。藻です。"
+    },
+    {
+      "i": 433,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。"
+    },
+    {
+      "i": 434,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 435,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 436,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 自衛隊です。"
+    },
+    {
+      "i": 437,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 438,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 閉めるです。封鎖とは、特定の場所や物を閉じ込めることです。"
+    },
+    {
+      "i": 439,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。ケーブルは、テレビと車両の両方で使用できます。"
+    },
+    {
+      "i": 440,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解はEです。精神病院は、精神疾患や精神病などの精神的な健康上の問題に悩む人を治療する"
+    },
+    {
+      "i": 441,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 442,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 443,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 大学です。"
+    },
+    {
+      "i": 444,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 445,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 446,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 大砲です。"
+    },
+    {
+      "i": 447,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. アパートです。"
+    },
+    {
+      "i": 448,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A. 道路です。"
+    },
+    {
+      "i": 449,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 450,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。\n\n取締役は、会社の役員を指します。"
+    },
+    {
+      "i": 451,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 民衆です。"
+    },
+    {
+      "i": 452,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 453,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 454,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 455,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. デジタルカメラです。"
+    },
+    {
+      "i": 456,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D. 和鋏です。和鋏とは、特に日本で、産業における価格差を指します。"
+    },
+    {
+      "i": 457,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 空港です。"
+    },
+    {
+      "i": 458,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 459,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 460,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. チェストです。"
+    },
+    {
+      "i": 461,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 462,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。\n\n「連合国」は、多くの国が協力して共同で行動することを表す言葉です。\n\n「"
+    },
+    {
+      "i": 463,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 軽蔑です。"
+    },
+    {
+      "i": 464,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 465,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 466,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 467,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 468,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B。"
+    },
+    {
+      "i": 469,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。\n\n梅雨は、6月から9月の間に日本で発生する、雨の日が多くなる時"
+    },
+    {
+      "i": 470,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A."
+    },
+    {
+      "i": 471,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 472,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。\n\n返済の負担を抑え目で融資してもらえるものは、低利資金です。低"
+    },
+    {
+      "i": 473,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。"
+    },
+    {
+      "i": 474,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。第二次世界大戦中、日本に原爆を落としたのはアメリカです。"
+    },
+    {
+      "i": 475,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E. 学問です。"
+    },
+    {
+      "i": 476,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 477,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 478,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答え: B. スーパー"
+    },
+    {
+      "i": 479,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 480,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 481,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A. ペンシルです。"
+    },
+    {
+      "i": 482,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。長いこと同じ場所に閉じ込められる事は、監禁と同じ意味を表しています。"
+    },
+    {
+      "i": 483,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 484,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。"
+    },
+    {
+      "i": 485,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 486,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 487,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 航空券です。"
+    },
+    {
+      "i": 488,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 489,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 490,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. 都市です。"
+    },
+    {
+      "i": 491,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 愛"
+    },
+    {
+      "i": 492,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C。ハサミです。"
+    },
+    {
+      "i": 493,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。\n\n和室に絶対敷いてあるものは畳です。和室は日本の伝統的な家具で"
+    },
+    {
+      "i": 494,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 495,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 飼料です。"
+    },
+    {
+      "i": 496,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 497,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 笑いです。"
+    },
+    {
+      "i": 498,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。銭湯は、入場料金を支払って利用できるお風呂です"
+    },
+    {
+      "i": 499,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えはA。"
+    },
+    {
+      "i": 500,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 501,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。パンツを脱ぐ前に、まずはパンツを脱ぐ必要があります。"
+    },
+    {
+      "i": 502,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 503,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この質問に答えるには、国籍とは、ある国がその国民の国民性を認める書類や証明書を"
+    },
+    {
+      "i": 504,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A。"
+    },
+    {
+      "i": 505,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 506,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 507,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 508,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 509,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えはAです。人々は、物を得ることや達成すること、または達成したことの認識に欲求"
+    },
+    {
+      "i": 510,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 511,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 512,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は C です。 \"ひどい\" は日本語で \"ひどい\" と読むことの意味を表"
+    },
+    {
+      "i": 513,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 514,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 515,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 516,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。フォークは、肉や野菜を鍋などに被せるための道具です。"
+    },
+    {
+      "i": 517,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 518,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。指の先端にあるものは薬指です。"
+    },
+    {
+      "i": 519,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 520,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 521,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。待合室は、病院や駅で患者や乗客が待機するためのスペ"
+    },
+    {
+      "i": 522,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 523,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。音楽は、学校教育の科目として、多くの学校で教えられます。"
+    },
+    {
+      "i": 524,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 525,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。\n\n図書館は本を貸し出せる場所として知られており、多くの本が入っています。"
+    },
+    {
+      "i": 526,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 527,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 528,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 529,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 530,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 531,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。土は、地球の陸地の表面を覆う固体の物質であり、土壌が形成"
+    },
+    {
+      "i": 532,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 533,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。"
+    },
+    {
+      "i": 534,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B。"
+    },
+    {
+      "i": 535,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解はEです。"
+    },
+    {
+      "i": 536,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。"
+    },
+    {
+      "i": 537,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。牛は主に牧草を食べることが多いです。"
+    },
+    {
+      "i": 538,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。マサチューセッツ工科大学 (Massachusetts Institute of Technology, MIT) は、アメリカの著名な"
+    },
+    {
+      "i": 539,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 540,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 長生きする"
+    },
+    {
+      "i": 541,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 542,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 543,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 544,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 545,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 546,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 547,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n専門的な事を習得する為に使うものは教本です。教本は、特定の"
+    },
+    {
+      "i": 548,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E. 商品です。"
+    },
+    {
+      "i": 549,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 550,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 551,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解はAです。信号は、乗り物を安全に通行するために行動を知らせるものです。信号は、"
+    },
+    {
+      "i": 552,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 檻です。"
+    },
+    {
+      "i": 553,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。建物の外は、建物の周囲の空間です。"
+    },
+    {
+      "i": 554,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. マーケットです。"
+    },
+    {
+      "i": 555,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 556,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 557,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 558,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. ビルです。住居や商業施設が入る建物はビルです。"
+    },
+    {
+      "i": 559,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 560,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。"
+    },
+    {
+      "i": 561,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 562,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 563,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。\n\nスーツを着て各社回ることは、出張という意味で、仕事のために外出することです"
+    },
+    {
+      "i": 564,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 565,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。パソコンのキーを打つのは、手指です。"
+    },
+    {
+      "i": 566,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 林です。"
+    },
+    {
+      "i": 567,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この中で動物を表す言葉は「C. 牧畜」です。"
+    },
+    {
+      "i": 568,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. 公立大学です。"
+    },
+    {
+      "i": 569,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。缶は金属製の小さな容器です。"
+    },
+    {
+      "i": 570,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 571,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。"
+    },
+    {
+      "i": 572,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 573,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 歯科です。虫歯は、歯科が治療する疾患です。"
+    },
+    {
+      "i": 574,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 575,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C. 花子さんです。"
+    },
+    {
+      "i": 576,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。\n\n軍隊、部隊、艦隊は、戦争や作戦のために集められた集団です。上"
+    },
+    {
+      "i": 577,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。チャチャチャはお茶の色や風格に似ているからです。"
+    },
+    {
+      "i": 578,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 579,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 580,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。インフルエンザは、ウイルスによって引き起こされる呼吸器炎です。"
+    },
+    {
+      "i": 581,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n「励む」は、努力や頑張ることを意味するため、次の文脈で適切"
+    },
+    {
+      "i": 582,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 船舶です。"
+    },
+    {
+      "i": 583,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 補聴器"
+    },
+    {
+      "i": 584,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この質問は、特に日本の文化的背景を考慮すると、少し微妙な質問です。\n\n答えは B です"
+    },
+    {
+      "i": 585,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 586,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 降雪です。"
+    },
+    {
+      "i": 587,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 588,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 589,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。台を置く場所としては、台座が最も適切な場所です。台"
+    },
+    {
+      "i": 590,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 591,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B."
+    },
+    {
+      "i": 592,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 593,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。机は、書き物をしたり本を読んだりするための一般的な場所です。"
+    },
+    {
+      "i": 594,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 595,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 596,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E。"
+    },
+    {
+      "i": 597,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。雨が降り、雨が残った場所は庭先です。庭先は、雨"
+    },
+    {
+      "i": 598,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 599,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 600,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 生活です。"
+    },
+    {
+      "i": 601,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えはAです。交差点は、2本以上の道路が交わる場所です。"
+    },
+    {
+      "i": 602,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 603,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。"
+    },
+    {
+      "i": 604,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。"
+    },
+    {
+      "i": 605,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 606,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D."
+    },
+    {
+      "i": 607,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. アイスボックスです。"
+    },
+    {
+      "i": 608,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 609,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 610,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 担々麺です。"
+    },
+    {
+      "i": 611,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 612,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A。"
+    },
+    {
+      "i": 613,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 614,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 615,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 616,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。\n\n接触するには、相手の連絡先が必要です。印鑑、メール、通帳、暗"
+    },
+    {
+      "i": 617,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C"
+    },
+    {
+      "i": 618,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 619,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A. 朗読劇です。"
+    },
+    {
+      "i": 620,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 621,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。机の上にかける布のことを「テーブルクロス」という日本語で表すことが多いです。"
+    },
+    {
+      "i": 622,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 623,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。トイレ掃除の時に使う手袋は、ゴム手袋です。"
+    },
+    {
+      "i": 624,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解はAです。夏の海でやる事の1つは日焼けです。"
+    },
+    {
+      "i": 625,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。"
+    },
+    {
+      "i": 626,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 627,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 628,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。\n\nミサイルは、一般的に武器として用いられるものです。惑星、スペースデブリ、�"
+    },
+    {
+      "i": 629,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 630,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 631,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。水を飲むのに必要なのはカップです。"
+    },
+    {
+      "i": 632,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。北海道の夜景で有名な場所は、海の近くです。北海道"
+    },
+    {
+      "i": 633,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。凶暴な動物が入れられるものとしては、柵 (E) が最"
+    },
+    {
+      "i": 634,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "Eが正解です。"
+    },
+    {
+      "i": 635,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. 開くです。"
+    },
+    {
+      "i": 636,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。冷やす機械は、冷蔵庫で冷やすことが一般的です。"
+    },
+    {
+      "i": 637,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 638,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 639,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 640,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 641,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 642,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A. 負傷です。"
+    },
+    {
+      "i": 643,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 成長です。"
+    },
+    {
+      "i": 644,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A."
+    },
+    {
+      "i": 645,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "Eです。"
+    },
+    {
+      "i": 646,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D. 自室です。"
+    },
+    {
+      "i": 647,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 648,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 649,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。洋服を収納するには、たんすが最も適切な選択肢"
+    },
+    {
+      "i": 650,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。ケーブルは、電気や通信を送信するための伝送メディアです。"
+    },
+    {
+      "i": 651,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 家畜です。"
+    },
+    {
+      "i": 652,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A. 質問をする"
+    },
+    {
+      "i": 653,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 654,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 655,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 料理です。"
+    },
+    {
+      "i": 656,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 657,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 658,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 熱いです。火を触ると、熱いです。"
+    },
+    {
+      "i": 659,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。"
+    },
+    {
+      "i": 660,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題は、常識に基づいて解釈する必要があります。\n\n正解は「B. 階段」です。階段"
+    },
+    {
+      "i": 661,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 662,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。\n\n「イントネーション」は、気温や雰囲気の良好さを表す"
+    },
+    {
+      "i": 663,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n理容室は、理容（散髪、刈込、顔剃りなど）や美容の"
+    },
+    {
+      "i": 664,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 665,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 666,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。中尾彬は、木更津で生まれた日本のプロ野球選手です"
+    },
+    {
+      "i": 667,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 668,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 669,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 670,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。\n\n戦争回避する学問とは、平和の概念や戦争の回避を中心に研究する学"
+    },
+    {
+      "i": 671,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 672,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。車を停めておくところとしては、車庫が最も適切な場所です"
+    },
+    {
+      "i": 673,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。消防士の仕事は、火災を防止し、消し去ることです。"
+    },
+    {
+      "i": 674,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B。"
+    },
+    {
+      "i": 675,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。モーターは電気自動車の心臓部と言えるでしょう。モーターは電気自動車の"
+    },
+    {
+      "i": 676,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 677,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 地盤です。"
+    },
+    {
+      "i": 678,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 679,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。端子 (C) は、電気や通信などの電気信号を伝えるために"
+    },
+    {
+      "i": 680,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 681,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 工事です。"
+    },
+    {
+      "i": 682,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 683,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は A です。酒は、通常、焼酎と呼ばれる日本のアルコール飲料です。"
+    },
+    {
+      "i": 684,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 685,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A. 森の中です。"
+    },
+    {
+      "i": 686,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 687,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。"
+    },
+    {
+      "i": 688,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 689,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 690,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 691,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 692,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。革は、長年バッグに使われる素材です。"
+    },
+    {
+      "i": 693,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 694,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。催し物を見る人は、一般的に見物人と呼ばれます。"
+    },
+    {
+      "i": 695,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 696,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 697,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 698,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 699,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。七味は、色々な種類の薬味を混ぜ合わせて辛さを加えるものです。"
+    },
+    {
+      "i": 700,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C."
+    },
+    {
+      "i": 701,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. グレートバリアリーフです。"
+    },
+    {
+      "i": 702,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。\n\n面接（めいけい）では、応募希望者が自社の説明を"
+    },
+    {
+      "i": 703,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 704,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。サンクトペテルブルクはロシア連邦の首都です。"
+    },
+    {
+      "i": 705,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 706,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 707,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。"
+    },
+    {
+      "i": 708,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 709,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 710,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 711,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 712,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 713,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 714,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 715,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C。"
+    },
+    {
+      "i": 716,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D です。商品を入れる物としては、ショッピングバッグが最も適切"
+    },
+    {
+      "i": 717,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 718,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 719,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 720,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D. 家です。"
+    },
+    {
+      "i": 721,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 722,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。知らない人に車に乗るよう言われたら、まずはその人の信頼性"
+    },
+    {
+      "i": 723,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 724,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 725,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解はEです。上司は、上司の人を指します。"
+    },
+    {
+      "i": 726,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 727,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. ドリンクです。"
+    },
+    {
+      "i": 728,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 729,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この質問に答えるには、心の拠り所とは、心の安らぎや安心感をもたらすものを指"
+    },
+    {
+      "i": 730,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。"
+    },
+    {
+      "i": 731,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。\n\n西村京太郎のミステリーの主な設定は、電車やバスを利用することなので、"
+    },
+    {
+      "i": 732,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 733,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。"
+    },
+    {
+      "i": 734,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。火が出るのはバーナーです。"
+    },
+    {
+      "i": 735,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。キリスト教の教会を「チャーチ」と呼ぶのが日本語の常識です。"
+    },
+    {
+      "i": 736,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 737,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 738,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A です。"
+    },
+    {
+      "i": 739,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 740,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 741,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 742,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。"
+    },
+    {
+      "i": 743,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。字を書く際に利用するものは、筆です。"
+    },
+    {
+      "i": 744,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 山登りです。"
+    },
+    {
+      "i": 745,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 746,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。マツタケやシイタケは、木の根から生え、菌類に分類されるもの"
+    },
+    {
+      "i": 747,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 748,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 749,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 750,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 751,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 752,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 753,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B."
+    },
+    {
+      "i": 754,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 755,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 756,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。料理を盛り付けるときに使う道具はお皿です。"
+    },
+    {
+      "i": 757,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。背骨の下部を「腰部」と呼ぶことが一般的です。"
+    },
+    {
+      "i": 758,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。作動とは、機械が動き始めることを指します。"
+    },
+    {
+      "i": 759,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 760,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 761,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 762,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 763,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解はEです。キャベツはサラダや添え物としてよく使われる葉物野菜です。"
+    },
+    {
+      "i": 764,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 765,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 766,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 絵巻です。"
+    },
+    {
+      "i": 767,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A. トルコです。トルコはアジアとヨーロッパの間を架けている橋を有する国です"
+    },
+    {
+      "i": 768,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 769,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 770,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 771,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。コロナウイルスの影響で、利用自粛が求められているのは「ホーム」です。"
+    },
+    {
+      "i": 772,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B。 犯人です。"
+    },
+    {
+      "i": 773,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は「A. 国民」です。"
+    },
+    {
+      "i": 774,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解はAです。黄色猩猩蝿は、昆虫の種類の一つです。"
+    },
+    {
+      "i": 775,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。ネコは毛が非常に多く生えている動物です。"
+    },
+    {
+      "i": 776,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 777,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "この質問に答えるには、基本的な社会規範と定義を考慮する必要があります。\n\nA. 人間 - 人間"
+    },
+    {
+      "i": 778,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 779,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D. 野球場です。野球は、特に日本では、野球場で行われるスポーツ"
+    },
+    {
+      "i": 780,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. カリフォルニアです。"
+    },
+    {
+      "i": 781,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B。"
+    },
+    {
+      "i": 782,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E\n\n美術館は、美術作品や芸術品を展示する目的で開催されている施設です。そこで、"
+    },
+    {
+      "i": 783,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。"
+    },
+    {
+      "i": 784,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B"
+    },
+    {
+      "i": 785,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "Eが正解です。"
+    },
+    {
+      "i": 786,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 787,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 788,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。駄菓子屋は、特にお菓子を販売する店として知"
+    },
+    {
+      "i": 789,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. 潜るです。"
+    },
+    {
+      "i": 790,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 791,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 792,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 793,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 794,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 795,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。漢字は日本語の文字で、人々の書き言葉です。"
+    },
+    {
+      "i": 796,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 797,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 798,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。ビールの飲みすぎで出てくる部位は、胸です。"
+    },
+    {
+      "i": 799,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 家屋です。"
+    },
+    {
+      "i": 800,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B。愛知県です。"
+    },
+    {
+      "i": 801,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。花火は夏に打ち上げられる催しとしてよく知られています。"
+    },
+    {
+      "i": 802,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 803,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。ファーストフードでよく食べるものは、フライドポテトです。"
+    },
+    {
+      "i": 804,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 建物です。"
+    },
+    {
+      "i": 805,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 806,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 807,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 808,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C"
+    },
+    {
+      "i": 809,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B. 岳です。"
+    },
+    {
+      "i": 810,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\nLEDライトは、取り付けが容易で、機械化された取り付けシステムを備えているため、取り付け"
+    },
+    {
+      "i": 811,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 肥満です。"
+    },
+    {
+      "i": 812,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 火災報知機です。火災警報は火事を知らせる装置ですが、火災報知機は"
+    },
+    {
+      "i": 813,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 814,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 815,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。マレーシアは東南アジアの国です。"
+    },
+    {
+      "i": 816,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. ニュージーランドです。"
+    },
+    {
+      "i": 817,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。グラスには割れやすいガラスが使われていることがよくあります。"
+    },
+    {
+      "i": 818,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 819,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 820,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 821,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 822,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 823,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 824,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。\n\n日本語では、女性を敬って呼ぶ言葉として「あめおのこ」や「あめおの"
+    },
+    {
+      "i": 825,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 826,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C. 箱です。箱は四角い形の入れ物なので、正解です。"
+    },
+    {
+      "i": 827,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 買う"
+    },
+    {
+      "i": 828,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 829,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A. 集会です。"
+    },
+    {
+      "i": 830,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E"
+    },
+    {
+      "i": 831,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D"
+    },
+    {
+      "i": 832,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。鍵は、ドアを開けるために一般的に使用されるものです。"
+    },
+    {
+      "i": 833,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。郵便局は、郵便物や郵便貯金などの事務を取り扱う機関"
+    },
+    {
+      "i": 834,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E\n\n「アパート」は、賃貸の集合住宅を表す日本語の固有名詞です。"
+    },
+    {
+      "i": 835,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 836,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 絶景です。"
+    },
+    {
+      "i": 837,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. 水です。"
+    },
+    {
+      "i": 838,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 839,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 夜雨です。"
+    },
+    {
+      "i": 840,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 841,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 842,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 843,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。"
+    },
+    {
+      "i": 844,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。"
+    },
+    {
+      "i": 845,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。サックスの略称は「サクソフォン」です。"
+    },
+    {
+      "i": 846,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この質問に答えるには、美容院に行く目的と目的を達成するための手段を考慮する必要があります。\n\n"
+    },
+    {
+      "i": 847,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 848,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 849,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 850,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 851,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 852,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。"
+    },
+    {
+      "i": 853,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C. ライブ会場です。"
+    },
+    {
+      "i": 854,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 855,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 856,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。三大栄養素のうち、糖質は炭水化物と脂質の両方ととも"
+    },
+    {
+      "i": 857,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B。首です。"
+    },
+    {
+      "i": 858,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A\n\n顔写真を貼り、学歴、賞罰などを書くのは、個人の履歴書です。"
+    },
+    {
+      "i": 859,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 860,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 猫です。アメリカンショートヘアとロシアンブルーは、猫科（Felidae）に属"
+    },
+    {
+      "i": 861,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. シアターです。"
+    },
+    {
+      "i": 862,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 散策です。"
+    },
+    {
+      "i": 863,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 864,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 865,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 866,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 867,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 868,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は「A. うま」です。人間は、知能や能力に関しては多様で、ある程度の"
+    },
+    {
+      "i": 869,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。朝夕は、一般的に朝と夕方の時間帯として知られています。"
+    },
+    {
+      "i": 870,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解はEです。空気中の水蒸気が氷の結晶になったものを「霜」ということです。"
+    },
+    {
+      "i": 871,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D. 平和です。"
+    },
+    {
+      "i": 872,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 873,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. ヨーロッパです。"
+    },
+    {
+      "i": 874,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。"
+    },
+    {
+      "i": 875,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。"
+    },
+    {
+      "i": 876,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E です。 \n\n単体、それのみで存在してもあまり役に立たないものは「うちわ」です。テレビ、"
+    },
+    {
+      "i": 877,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。カーペットは、床に敷き詰めることができるもので、広い"
+    },
+    {
+      "i": 878,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 879,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 世界です。地球上の一つのまとまりを表す言葉として \"世界\" が最も適切です。"
+    },
+    {
+      "i": 880,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n日本で最大の蔵書数があるのは、国立国会図書館です。"
+    },
+    {
+      "i": 881,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 882,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n布を縫ったところは縫い目です。"
+    },
+    {
+      "i": 883,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 884,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 885,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. 疲労です。身体の自由が利かず動けない状態とは、元気や回復などの状態とは"
+    },
+    {
+      "i": 886,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この質問に答えるには、以下の点を考慮する必要があります。\n\n- この質問は、特定の人を「"
+    },
+    {
+      "i": 887,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 888,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 謝罪です。"
+    },
+    {
+      "i": 889,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 890,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 891,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 892,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 893,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。レールの上で走るのは電車です。"
+    },
+    {
+      "i": 894,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 895,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. スープです。"
+    },
+    {
+      "i": 896,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 897,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 898,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 899,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 900,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。停留所は、電車が停まる場所です。"
+    },
+    {
+      "i": 901,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 902,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。日本の首都は東京です。"
+    },
+    {
+      "i": 903,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この質問は、日常生活における社会的規範と慣習を理解することに関連しています。\n\n正解は「D. �"
+    },
+    {
+      "i": 904,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 905,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 906,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は C です。\n\n選択肢の C \"生き物\" は、生物学的観点から地球上で生きている"
+    },
+    {
+      "i": 907,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 908,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 909,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。"
+    },
+    {
+      "i": 910,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 911,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 金沢です。"
+    },
+    {
+      "i": 912,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。上司に仕える人のことを「部下」という言葉で表します。"
+    },
+    {
+      "i": 913,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 914,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えはAです。"
+    },
+    {
+      "i": 915,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 916,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 917,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。"
+    },
+    {
+      "i": 918,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 919,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 920,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 翼です。"
+    },
+    {
+      "i": 921,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。空気の入れ替えをするには、空気を入れ替えるための機械的な仕"
+    },
+    {
+      "i": 922,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 923,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 924,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C。台所です。"
+    },
+    {
+      "i": 925,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 926,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 927,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 928,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C."
+    },
+    {
+      "i": 929,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 930,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。"
+    },
+    {
+      "i": 931,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。\n\n警官は、地域の治安を守るために、警察を務める職業です。"
+    },
+    {
+      "i": 932,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 933,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。体調が悪い時には、医療のサポートを受けることが重要な時期"
+    },
+    {
+      "i": 934,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A. 肥満です。"
+    },
+    {
+      "i": 935,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 936,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 937,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 938,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A. 興行です。"
+    },
+    {
+      "i": 939,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E。"
+    },
+    {
+      "i": 940,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 941,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 尾獣です。"
+    },
+    {
+      "i": 942,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 943,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 944,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。畑で栽培するものは、野菜です。畑は、野菜"
+    },
+    {
+      "i": 945,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 946,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。一般的に、装飾品のリングをはめる部位は、手の指です。"
+    },
+    {
+      "i": 947,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 948,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 949,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D. 建物です。"
+    },
+    {
+      "i": 950,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 951,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D."
+    },
+    {
+      "i": 952,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この質問では、個人的嗜好をどの選択肢で表現するかを判断する必要があります。\n\n個人的嗜"
+    },
+    {
+      "i": 953,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 954,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 955,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。人に必要なものの中で、恋は基本的な人間関係の要素です。"
+    },
+    {
+      "i": 956,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 957,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。人が住むところを「家」という言葉で表します。"
+    },
+    {
+      "i": 958,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。ファクシミリは、印刷できる便利な機械です。"
+    },
+    {
+      "i": 959,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。愛国心とは、国を愛する心を表す言葉で、国を愛する"
+    },
+    {
+      "i": 960,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. インクです。"
+    },
+    {
+      "i": 961,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 962,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。自動車の後ろにある空間はトランクです。"
+    },
+    {
+      "i": 963,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 964,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B\n\n理由: 日々の努力で手に入れられる物は、上達です。上達とは、自分の能力や知識"
+    },
+    {
+      "i": 965,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 966,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 醜いです。"
+    },
+    {
+      "i": 967,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 968,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 969,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 電気です。"
+    },
+    {
+      "i": 970,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。ダニは、絨毯や床の下などに生息する小さな虫です。"
+    },
+    {
+      "i": 971,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。ガラス製品の容器として、水などを注ぐための容器として最も"
+    },
+    {
+      "i": 972,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。野菜や果物を売っているおみせは、野菜や果物の収"
+    },
+    {
+      "i": 973,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。和歌・俳句・詩など韻文の総称は「詩歌」です。"
+    },
+    {
+      "i": 974,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。人間の体内は約70%の水で構成されています。"
+    },
+    {
+      "i": 975,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 976,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 977,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。地面の下を走る鉄道は地下鉄です。"
+    },
+    {
+      "i": 978,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n「良問」は、上司が部下に質問することです。上司が部下に質"
+    },
+    {
+      "i": 979,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 980,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. コミュニティです。"
+    },
+    {
+      "i": 981,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えはD。お寺です。"
+    },
+    {
+      "i": 982,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。車の車輪についているゴム製のものは「タイヤ」です。"
+    },
+    {
+      "i": 983,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 984,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 985,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 986,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 葬儀です。アメリカでは、葬儀は非常に大きな文化的行事であり、多くの場合、家族"
+    },
+    {
+      "i": 987,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 988,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 989,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 990,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。シンデレラが乗るのは、馬車です。"
+    },
+    {
+      "i": 991,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 鍵盤楽器です。"
+    },
+    {
+      "i": 992,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。手洗った後は、トイレットペーパーを使用して手を洗い、きれいに拭き"
+    },
+    {
+      "i": 993,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 994,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 995,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 996,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 997,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 998,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 999,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解はEです。"
+    },
+    {
+      "i": 1000,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 1001,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 1002,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 1003,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。"
+    },
+    {
+      "i": 1004,
+      "gold": 2,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 家計簿です。"
+    },
+    {
+      "i": 1005,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 1006,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 1007,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。\n\nゴルフクラブでカップに入れるときに使用するのはポットです。ポットはゴルフのカップ"
+    },
+    {
+      "i": 1008,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。レストランは、食事を食べるための特定の場所として知られています。"
+    },
+    {
+      "i": 1009,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E. 蒸気です。"
+    },
+    {
+      "i": 1010,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. 音楽家たちです。"
+    },
+    {
+      "i": 1011,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 1012,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 1013,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 1014,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1015,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 1016,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 1017,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。"
+    },
+    {
+      "i": 1018,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 1019,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。"
+    },
+    {
+      "i": 1020,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解はEです。"
+    },
+    {
+      "i": 1021,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 紅海です。"
+    },
+    {
+      "i": 1022,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A."
+    },
+    {
+      "i": 1023,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. コンサートです。"
+    },
+    {
+      "i": 1024,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 1025,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 1026,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1027,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 1028,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 1029,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1030,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。高層階の建物は、ビルと呼ばれます。ビルは、人々が住むための"
+    },
+    {
+      "i": 1031,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1032,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 1033,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1034,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1035,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 自動\n\nオムロンや東芝が作っている、入場時のチェックのために駅の入口などに設置"
+    },
+    {
+      "i": 1036,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 1037,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは D です。"
+    },
+    {
+      "i": 1038,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 1039,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は A です。\n\n「A. 資料」は、記事を書くために調べるものとして最も適切な"
+    },
+    {
+      "i": 1040,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1041,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。アラビア半島は、世界の中東の重要な地理的および文化"
+    },
+    {
+      "i": 1042,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 楽しむです。"
+    },
+    {
+      "i": 1043,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 1044,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。\n\n人間は生物の中で唯一、相手に伝える手段として使えるものは「ことば」です。人間"
+    },
+    {
+      "i": 1045,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 1046,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。トンネルは、地上から地面までの通路を指します。"
+    },
+    {
+      "i": 1047,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n釣り人とは、釣りをしている人を指します。釣りは、魚や他の水"
+    },
+    {
+      "i": 1048,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. エジプトです。エジプトには、壁画や神殿として有名な古代エジプト"
+    },
+    {
+      "i": 1049,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 1050,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は C です。地球は太陽を回っており、これは地球の公転を表しています。"
+    },
+    {
+      "i": 1051,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。"
+    },
+    {
+      "i": 1052,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1053,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B です。"
+    },
+    {
+      "i": 1054,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 1055,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の答えは C です。床は、床張り（もどり）という形で床の下に張り付けられている"
+    },
+    {
+      "i": 1056,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 1057,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 辞書です。"
+    },
+    {
+      "i": 1058,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 1059,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 1060,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. プール"
+    },
+    {
+      "i": 1061,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 1062,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1063,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1064,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは E です。"
+    },
+    {
+      "i": 1065,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 1066,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 1067,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。\n\n自己愛性人格障害 (Narcissistic Personality Disorder) は、自己中心性、自己愛性、"
+    },
+    {
+      "i": 1068,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. アンデス山脈です。アンデス山脈は南アメリカ大陸の山脈で、世界で"
+    },
+    {
+      "i": 1069,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 1070,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。倉庫は、製品を貯蔵するための特に設計された建物で、"
+    },
+    {
+      "i": 1071,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C. 計画です。"
+    },
+    {
+      "i": 1072,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n植物は光合成をしてエネルギーを生産します。"
+    },
+    {
+      "i": 1073,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 1074,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 1075,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n狩猟とは、野生動物を捕獲することを指します。"
+    },
+    {
+      "i": 1076,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解はAです。北極は地球の北の果ての地域であり、世界で最も寒い場所の1つです。"
+    },
+    {
+      "i": 1077,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1078,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 1079,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは E"
+    },
+    {
+      "i": 1080,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは A です。"
+    },
+    {
+      "i": 1081,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 1082,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 1083,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "この問題の正解は C です。\n\n「団地妻」は、主婦が団地に住んでいることを表す言葉です。"
+    },
+    {
+      "i": 1084,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 1085,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D."
+    },
+    {
+      "i": 1086,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。"
+    },
+    {
+      "i": 1087,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 1088,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは C です。"
+    },
+    {
+      "i": 1089,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 1090,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は E です。リズムとは音のパターンやリズムをとる音の特徴です。"
+    },
+    {
+      "i": 1091,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "最も適切な答えは B \"幸せ\" です。"
+    },
+    {
+      "i": 1092,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\nメディアラボ (Media Lab) は、MIT (マサチューセッツ工科大学) のアカ"
+    },
+    {
+      "i": 1093,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 1094,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1095,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D です。"
+    },
+    {
+      "i": 1096,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 1097,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 1098,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1099,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C"
+    },
+    {
+      "i": 1100,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 1101,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. 玉子です。"
+    },
+    {
+      "i": 1102,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。神経活動の中枢をなす器官は脳です。"
+    },
+    {
+      "i": 1103,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。\n\n人事部は、会社の全体的な人事管理や人事政策の立案に関わる部署"
+    },
+    {
+      "i": 1104,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 1105,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。"
+    },
+    {
+      "i": 1106,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B です。感染するのは生命体です。"
+    },
+    {
+      "i": 1107,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 1108,
+      "gold": 3,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は D. セーヌです。"
+    },
+    {
+      "i": 1109,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1110,
+      "gold": 0,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは A"
+    },
+    {
+      "i": 1111,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 1112,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は B. 洋画です。"
+    },
+    {
+      "i": 1113,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 1114,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1115,
+      "gold": 4,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは D"
+    },
+    {
+      "i": 1116,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは C"
+    },
+    {
+      "i": 1117,
+      "gold": 1,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "答えは B"
+    },
+    {
+      "i": 1118,
+      "gold": 2,
+      "pred": -1,
+      "pred_letter": null,
+      "gen": "正解は C です。人体は実験に使われることが多く、医学や生物学の研究に使用されます。"
+    }
+  ]
+}

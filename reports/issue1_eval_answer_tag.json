@@ -1,0 +1,7845 @@
+{
+  "summary": {
+    "model": "meta-llama/Llama-3.2-3B-Instruct",
+    "adapter": "outputs/mcq_sft_answer_tag",
+    "n": 1119,
+    "correct": 921,
+    "accuracy": 0.8230563002680965,
+    "unparsable": 0
+  },
+  "details": [
+    {
+      "i": 0,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 2,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 3,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 4,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 5,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 6,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 7,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 8,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 9,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 10,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 11,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 12,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 13,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 14,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 15,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 16,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 17,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 18,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 19,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 20,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 21,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 22,
+      "gold": 0,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 23,
+      "gold": 4,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 24,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 25,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 26,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 27,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 28,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 29,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 30,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 31,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 32,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 33,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 34,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 35,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 36,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 37,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 38,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 39,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 40,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 41,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 42,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 43,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 44,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 45,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 46,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 47,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 48,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 49,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 50,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 51,
+      "gold": 0,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 52,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 53,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 54,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 55,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 56,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 57,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 58,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 59,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 60,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 61,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 62,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 63,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 64,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 65,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 66,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 67,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 68,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 69,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 70,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 71,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 72,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 73,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 74,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 75,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 76,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 77,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 78,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 79,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 80,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 81,
+      "gold": 2,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 82,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 83,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 84,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 85,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 86,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 87,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 88,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 89,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 90,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 91,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 92,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 93,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 94,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 95,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 96,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 97,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 98,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 99,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 100,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 101,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 102,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 103,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 104,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 105,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 106,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 107,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 108,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 109,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 110,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 111,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 112,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 113,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 114,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 115,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 116,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 117,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 118,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 119,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 120,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 121,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 122,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 123,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 124,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 125,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 126,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 127,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 128,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 129,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 130,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 131,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 132,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 133,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 134,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 135,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 136,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 137,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 138,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 139,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 140,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 141,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 142,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 143,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 144,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 145,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 146,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 147,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 148,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 149,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 150,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 151,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 152,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 153,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 154,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 155,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 156,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 157,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 158,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 159,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 160,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 161,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 162,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 163,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 164,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 165,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 166,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 167,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 168,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 169,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 170,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 171,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 172,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 173,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 174,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 175,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 176,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 177,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 178,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 179,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 180,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 181,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 182,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 183,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 184,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 185,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 186,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 187,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 188,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 189,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 190,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 191,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 192,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 193,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 194,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 195,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 196,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 197,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 198,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 199,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 200,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 201,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 202,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 203,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 204,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 205,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 206,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 207,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 208,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 209,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 210,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 211,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 212,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 213,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 214,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 215,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 216,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 217,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 218,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 219,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 220,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 221,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 222,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 223,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 224,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 225,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 226,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 227,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 228,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 229,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 230,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 231,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 232,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 233,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 234,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 235,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 236,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 237,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 238,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 239,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 240,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 241,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 242,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 243,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 244,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 245,
+      "gold": 0,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 246,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 247,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 248,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 249,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 250,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 251,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 252,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 253,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 254,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 255,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 256,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 257,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 258,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 259,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 260,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 261,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 262,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 263,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 264,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 265,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 266,
+      "gold": 0,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 267,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 268,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 269,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 270,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 271,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 272,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 273,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 274,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 275,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 276,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 277,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 278,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 279,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 280,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 281,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 282,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 283,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 284,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 285,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 286,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 287,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 288,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 289,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 290,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 291,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 292,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 293,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 294,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 295,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 296,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 297,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 298,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 299,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 300,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 301,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 302,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 303,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 304,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 305,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 306,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 307,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 308,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 309,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 310,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 311,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 312,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 313,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 314,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 315,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 316,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 317,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 318,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 319,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 320,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 321,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 322,
+      "gold": 2,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 323,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 324,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 325,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 326,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 327,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 328,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 329,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 330,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 331,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 332,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 333,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 334,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 335,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 336,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 337,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 338,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 339,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 340,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 341,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 342,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 343,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 344,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 345,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 346,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 347,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 348,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 349,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 350,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 351,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 352,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 353,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 354,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 355,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 356,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 357,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 358,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 359,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 360,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 361,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 362,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 363,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 364,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 365,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 366,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 367,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 368,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 369,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 370,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 371,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 372,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 373,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 374,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 375,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 376,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 377,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 378,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 379,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 380,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 381,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 382,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 383,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 384,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 385,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 386,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 387,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 388,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 389,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 390,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 391,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 392,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 393,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 394,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 395,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 396,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 397,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 398,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 399,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 400,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 401,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 402,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 403,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 404,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 405,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 406,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 407,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 408,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 409,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 410,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 411,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 412,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 413,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 414,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 415,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 416,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 417,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 418,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 419,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 420,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 421,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 422,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 423,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 424,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 425,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 426,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 427,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 428,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 429,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 430,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 431,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 432,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 433,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 434,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 435,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 436,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 437,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 438,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 439,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 440,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 441,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 442,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 443,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 444,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 445,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 446,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 447,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 448,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 449,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 450,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 451,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 452,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 453,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 454,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 455,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 456,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 457,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 458,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 459,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 460,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 461,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 462,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 463,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 464,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 465,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 466,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 467,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 468,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 469,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 470,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 471,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 472,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 473,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 474,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 475,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 476,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 477,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 478,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 479,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 480,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 481,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 482,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 483,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 484,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 485,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 486,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 487,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 488,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 489,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 490,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 491,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 492,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 493,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 494,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 495,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 496,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 497,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 498,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 499,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 500,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 501,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 502,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 503,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 504,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 505,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 506,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 507,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 508,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 509,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 510,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 511,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 512,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 513,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 514,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 515,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 516,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 517,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 518,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 519,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 520,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 521,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 522,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 523,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 524,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 525,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 526,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 527,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 528,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 529,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 530,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 531,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 532,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 533,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 534,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 535,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 536,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 537,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 538,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 539,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 540,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 541,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 542,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 543,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 544,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 545,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 546,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 547,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 548,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 549,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 550,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 551,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 552,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 553,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 554,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 555,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 556,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 557,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 558,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 559,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 560,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 561,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 562,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 563,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 564,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 565,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 566,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 567,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 568,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 569,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 570,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 571,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 572,
+      "gold": 0,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 573,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 574,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 575,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 576,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 577,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 578,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 579,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 580,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 581,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 582,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 583,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 584,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 585,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 586,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 587,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 588,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 589,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 590,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 591,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 592,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 593,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 594,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 595,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 596,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 597,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 598,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 599,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 600,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 601,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 602,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 603,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 604,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 605,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 606,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 607,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 608,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 609,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 610,
+      "gold": 0,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 611,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 612,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 613,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 614,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 615,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 616,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 617,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 618,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 619,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 620,
+      "gold": 2,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 621,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 622,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 623,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 624,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 625,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 626,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 627,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 628,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 629,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 630,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 631,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 632,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 633,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 634,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 635,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 636,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 637,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 638,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 639,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 640,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 641,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 642,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 643,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 644,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 645,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 646,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 647,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 648,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 649,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 650,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 651,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 652,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 653,
+      "gold": 4,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 654,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 655,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 656,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 657,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 658,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 659,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 660,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 661,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 662,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 663,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 664,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 665,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 666,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 667,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 668,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 669,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 670,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 671,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 672,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 673,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 674,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 675,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 676,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 677,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 678,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 679,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 680,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 681,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 682,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 683,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 684,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 685,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 686,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 687,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 688,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 689,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 690,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 691,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 692,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 693,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 694,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 695,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 696,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 697,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 698,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 699,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 700,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 701,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 702,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 703,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 704,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 705,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 706,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 707,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 708,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 709,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 710,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 711,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 712,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 713,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 714,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 715,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 716,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 717,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 718,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 719,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 720,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 721,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 722,
+      "gold": 2,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 723,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 724,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 725,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 726,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 727,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 728,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 729,
+      "gold": 0,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 730,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 731,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 732,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 733,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 734,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 735,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 736,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 737,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 738,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 739,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 740,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 741,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 742,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 743,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 744,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 745,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 746,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 747,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 748,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 749,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 750,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 751,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 752,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 753,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 754,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 755,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 756,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 757,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 758,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 759,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 760,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 761,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 762,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 763,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 764,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 765,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 766,
+      "gold": 4,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 767,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 768,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 769,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 770,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 771,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 772,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 773,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 774,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 775,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 776,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 777,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 778,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 779,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 780,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 781,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 782,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 783,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 784,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 785,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 786,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 787,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 788,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 789,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 790,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 791,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 792,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 793,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 794,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 795,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 796,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 797,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 798,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 799,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 800,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 801,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 802,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 803,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 804,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 805,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 806,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 807,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 808,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 809,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 810,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 811,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 812,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 813,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 814,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 815,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 816,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 817,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 818,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 819,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 820,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 821,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 822,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 823,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 824,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 825,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 826,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 827,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 828,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 829,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 830,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 831,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 832,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 833,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 834,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 835,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 836,
+      "gold": 4,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 837,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 838,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 839,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 840,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 841,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 842,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 843,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 844,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 845,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 846,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 847,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 848,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 849,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 850,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 851,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 852,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 853,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 854,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 855,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 856,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 857,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 858,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 859,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 860,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 861,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 862,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 863,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 864,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 865,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 866,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 867,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 868,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 869,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 870,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 871,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 872,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 873,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 874,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 875,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 876,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 877,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 878,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 879,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 880,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 881,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 882,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 883,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 884,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 885,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 886,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 887,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 888,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 889,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 890,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 891,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 892,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 893,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 894,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 895,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 896,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 897,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 898,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 899,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 900,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 901,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 902,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 903,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 904,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 905,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 906,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 907,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 908,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 909,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 910,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 911,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 912,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 913,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 914,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 915,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 916,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 917,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 918,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 919,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 920,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 921,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 922,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 923,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 924,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 925,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 926,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 927,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 928,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 929,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 930,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 931,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 932,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 933,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 934,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 935,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 936,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 937,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 938,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 939,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 940,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 941,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 942,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 943,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 944,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 945,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 946,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 947,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 948,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 949,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 950,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 951,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 952,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 953,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 954,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 955,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 956,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 957,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 958,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 959,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 960,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 961,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 962,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 963,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 964,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 965,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 966,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 967,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 968,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 969,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 970,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 971,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 972,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 973,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 974,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 975,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 976,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 977,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 978,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 979,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 980,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 981,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 982,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 983,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 984,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 985,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 986,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 987,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 988,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 989,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 990,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 991,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 992,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 993,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 994,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 995,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 996,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 997,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 998,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 999,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1000,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1001,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1002,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1003,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1004,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1005,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1006,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1007,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1008,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1009,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1010,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1011,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1012,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1013,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1014,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1015,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1016,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1017,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1018,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1019,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1020,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1021,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1022,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1023,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1024,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1025,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1026,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1027,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1028,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1029,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1030,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1031,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1032,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1033,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1034,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1035,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1036,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1037,
+      "gold": 0,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1038,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1039,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1040,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1041,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1042,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1043,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1044,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1045,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1046,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1047,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1048,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1049,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1050,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1051,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1052,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1053,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1054,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1055,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1056,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1057,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1058,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1059,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1060,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1061,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1062,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1063,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1064,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1065,
+      "gold": 4,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1066,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1067,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1068,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1069,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1070,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1071,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1072,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1073,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1074,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1075,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1076,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1077,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1078,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1079,
+      "gold": 2,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1080,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1081,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1082,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1083,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1084,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1085,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1086,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1087,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1088,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1089,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1090,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1091,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1092,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1093,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1094,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1095,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1096,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1097,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1098,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1099,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1100,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1101,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1102,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1103,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1104,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1105,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1106,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1107,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1108,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1109,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1110,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "[ANSWER] A"
+    },
+    {
+      "i": 1111,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1112,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1113,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1114,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "[ANSWER] D"
+    },
+    {
+      "i": 1115,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "[ANSWER] E"
+    },
+    {
+      "i": 1116,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    },
+    {
+      "i": 1117,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "[ANSWER] B"
+    },
+    {
+      "i": 1118,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "[ANSWER] C"
+    }
+  ]
+}

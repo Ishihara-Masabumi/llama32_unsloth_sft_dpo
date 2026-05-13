@@ -2,6 +2,10 @@
 """
 from __future__ import annotations
 
+import unsloth  # noqa: F401  IMPORTANT: must be imported before trl/transformers/peft
+from unsloth import FastLanguageModel
+from unsloth.chat_templates import get_chat_template
+
 import argparse
 import json
 from pathlib import Path
@@ -9,8 +13,6 @@ from pathlib import Path
 import torch
 from datasets import Dataset
 from trl import SFTConfig, SFTTrainer
-from unsloth import FastLanguageModel
-from unsloth.chat_templates import get_chat_template
 
 MAX_SEQ_LEN = 1536
 
@@ -72,6 +74,10 @@ def main() -> None:
 
     ds = ds.map(fmt, remove_columns=ds.column_names)
 
+    eos_tok = "<|eot_id|>" if "<|eot_id|>" in tokenizer.get_vocab() else tokenizer.eos_token
+    pad_tok = tokenizer.pad_token if tokenizer.pad_token else eos_tok
+    print(f"[info] using eos_token={eos_tok!r}, pad_token={pad_tok!r}")
+
     cfg = SFTConfig(
         output_dir=args.output_dir,
         num_train_epochs=args.epochs,
@@ -91,6 +97,8 @@ def main() -> None:
         max_length=MAX_SEQ_LEN,
         dataset_text_field="text",
         packing=False,
+        eos_token=eos_tok,
+        pad_token=pad_tok,
     )
 
     trainer = SFTTrainer(model=model, processing_class=tokenizer, train_dataset=ds, args=cfg)

@@ -4,14 +4,16 @@
 """
 from __future__ import annotations
 
+import unsloth  # noqa: F401
+from unsloth import FastLanguageModel
+from unsloth.chat_templates import get_chat_template
+
 import argparse
 import json
 import re
 from pathlib import Path
 
 import torch
-from unsloth import FastLanguageModel
-from unsloth.chat_templates import get_chat_template
 
 LETTERS = ["A", "B", "C", "D", "E"]
 MAX_SEQ_LEN = 1024

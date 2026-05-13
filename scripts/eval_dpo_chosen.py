@@ -5,13 +5,15 @@ rejected の対数尤度より大きい比率を Chosen 選好精度とする。
 """
 from __future__ import annotations
 
+import unsloth  # noqa: F401
+from unsloth import FastLanguageModel
+from unsloth.chat_templates import get_chat_template
+
 import argparse
 import json
 from pathlib import Path
 
 import torch
-from unsloth import FastLanguageModel
-from unsloth.chat_templates import get_chat_template
 
 MAX_SEQ_LEN = 1024
 

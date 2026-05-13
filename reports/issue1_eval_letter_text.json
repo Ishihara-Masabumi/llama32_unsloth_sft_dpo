@@ -1,0 +1,7845 @@
+{
+  "summary": {
+    "model": "meta-llama/Llama-3.2-3B-Instruct",
+    "adapter": "outputs/mcq_sft_letter_text",
+    "n": 1119,
+    "correct": 917,
+    "accuracy": 0.8194816800714924,
+    "unparsable": 0
+  },
+  "details": [
+    {
+      "i": 0,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. マザーボード"
+    },
+    {
+      "i": 1,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 田園"
+    },
+    {
+      "i": 2,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 腰を下す"
+    },
+    {
+      "i": 3,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 流し"
+    },
+    {
+      "i": 4,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ディスコ"
+    },
+    {
+      "i": 5,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 山腹"
+    },
+    {
+      "i": 6,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 車から降りる"
+    },
+    {
+      "i": 7,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ノートパソコン"
+    },
+    {
+      "i": 8,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 喫煙"
+    },
+    {
+      "i": 9,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 妨害運転"
+    },
+    {
+      "i": 10,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. バネ"
+    },
+    {
+      "i": 11,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. お皿"
+    },
+    {
+      "i": 12,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. お金を持っていく"
+    },
+    {
+      "i": 13,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ハンドバッグ"
+    },
+    {
+      "i": 14,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 虫"
+    },
+    {
+      "i": 15,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 友情"
+    },
+    {
+      "i": 16,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ブレーキ"
+    },
+    {
+      "i": 17,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ビル"
+    },
+    {
+      "i": 18,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. スープ"
+    },
+    {
+      "i": 19,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. テーブル"
+    },
+    {
+      "i": 20,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. コップ"
+    },
+    {
+      "i": 21,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 猫"
+    },
+    {
+      "i": 22,
+      "gold": 0,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 買い求める"
+    },
+    {
+      "i": 23,
+      "gold": 4,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 地下"
+    },
+    {
+      "i": 24,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 振り仮名"
+    },
+    {
+      "i": 25,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 体"
+    },
+    {
+      "i": 26,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 砂丘"
+    },
+    {
+      "i": 27,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 北海道大学"
+    },
+    {
+      "i": 28,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. リフト"
+    },
+    {
+      "i": 29,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 把握"
+    },
+    {
+      "i": 30,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ホワイトハウス"
+    },
+    {
+      "i": 31,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 誤解"
+    },
+    {
+      "i": 32,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 整備士"
+    },
+    {
+      "i": 33,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 伝える"
+    },
+    {
+      "i": 34,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. トランペット"
+    },
+    {
+      "i": 35,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 人"
+    },
+    {
+      "i": 36,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. グラス"
+    },
+    {
+      "i": 37,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ワシントン"
+    },
+    {
+      "i": 38,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ひかり"
+    },
+    {
+      "i": 39,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. スーパー"
+    },
+    {
+      "i": 40,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. イタリア"
+    },
+    {
+      "i": 41,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 浮き輪"
+    },
+    {
+      "i": 42,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 郵便局"
+    },
+    {
+      "i": 43,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ストア"
+    },
+    {
+      "i": 44,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ガム"
+    },
+    {
+      "i": 45,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 朝鮮人参"
+    },
+    {
+      "i": 46,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 冷却装置"
+    },
+    {
+      "i": 47,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 電子レンジ"
+    },
+    {
+      "i": 48,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 地下牢"
+    },
+    {
+      "i": 49,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 靴"
+    },
+    {
+      "i": 50,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 乱れ"
+    },
+    {
+      "i": 51,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 国家を象徴する"
+    },
+    {
+      "i": 52,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 近代科学"
+    },
+    {
+      "i": 53,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 身振り"
+    },
+    {
+      "i": 54,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 人身攻撃"
+    },
+    {
+      "i": 55,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ネズミ"
+    },
+    {
+      "i": 56,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. プリンタ"
+    },
+    {
+      "i": 57,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 寺"
+    },
+    {
+      "i": 58,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ステーキ"
+    },
+    {
+      "i": 59,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 喫茶店"
+    },
+    {
+      "i": 60,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 白鳥"
+    },
+    {
+      "i": 61,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 木"
+    },
+    {
+      "i": 62,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ジェンダーアシーム"
+    },
+    {
+      "i": 63,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 睡眠する"
+    },
+    {
+      "i": 64,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 咲分け"
+    },
+    {
+      "i": 65,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 健康"
+    },
+    {
+      "i": 66,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ビル"
+    },
+    {
+      "i": 67,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. イラク"
+    },
+    {
+      "i": 68,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. フロリダ"
+    },
+    {
+      "i": 69,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. マーシャル諸島"
+    },
+    {
+      "i": 70,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 湯気"
+    },
+    {
+      "i": 71,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 3Dプリンター"
+    },
+    {
+      "i": 72,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. イタチ"
+    },
+    {
+      "i": 73,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 氷"
+    },
+    {
+      "i": 74,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 会社説明会"
+    },
+    {
+      "i": 75,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 化粧"
+    },
+    {
+      "i": 76,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 家具"
+    },
+    {
+      "i": 77,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ブランド"
+    },
+    {
+      "i": 78,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. オクラホマ"
+    },
+    {
+      "i": 79,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 製品"
+    },
+    {
+      "i": 80,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 議員"
+    },
+    {
+      "i": 81,
+      "gold": 2,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 毛"
+    },
+    {
+      "i": 82,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 金持ち"
+    },
+    {
+      "i": 83,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. お祭り"
+    },
+    {
+      "i": 84,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ヘリコプターを飛ばすこと"
+    },
+    {
+      "i": 85,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 半生"
+    },
+    {
+      "i": 86,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 白鷺"
+    },
+    {
+      "i": 87,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. トイレ"
+    },
+    {
+      "i": 88,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 歯"
+    },
+    {
+      "i": 89,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 高層ビル"
+    },
+    {
+      "i": 90,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 外為"
+    },
+    {
+      "i": 91,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 春"
+    },
+    {
+      "i": 92,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 水の上"
+    },
+    {
+      "i": 93,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 水"
+    },
+    {
+      "i": 94,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 良くない"
+    },
+    {
+      "i": 95,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ハート"
+    },
+    {
+      "i": 96,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 市場"
+    },
+    {
+      "i": 97,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ペルー"
+    },
+    {
+      "i": 98,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 椀"
+    },
+    {
+      "i": 99,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 街"
+    },
+    {
+      "i": 100,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. オルガン"
+    },
+    {
+      "i": 101,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 破魔弓"
+    },
+    {
+      "i": 102,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 甲州梅"
+    },
+    {
+      "i": 103,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 建築現場"
+    },
+    {
+      "i": 104,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ローマ字"
+    },
+    {
+      "i": 105,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 手"
+    },
+    {
+      "i": 106,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 布地"
+    },
+    {
+      "i": 107,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 肝臓"
+    },
+    {
+      "i": 108,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 薬剤"
+    },
+    {
+      "i": 109,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 農地"
+    },
+    {
+      "i": 110,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. はな"
+    },
+    {
+      "i": 111,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. シューズ"
+    },
+    {
+      "i": 112,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 管弦楽団"
+    },
+    {
+      "i": 113,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 近郊"
+    },
+    {
+      "i": 114,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. しわ"
+    },
+    {
+      "i": 115,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. スーツケース"
+    },
+    {
+      "i": 116,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 前かがみになる"
+    },
+    {
+      "i": 117,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 国"
+    },
+    {
+      "i": 118,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 岩洞"
+    },
+    {
+      "i": 119,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ネクタイ"
+    },
+    {
+      "i": 120,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. シート"
+    },
+    {
+      "i": 121,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 駅の売店"
+    },
+    {
+      "i": 122,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. キー"
+    },
+    {
+      "i": 123,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 空気"
+    },
+    {
+      "i": 124,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ホットコーヒー"
+    },
+    {
+      "i": 125,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 竜巻"
+    },
+    {
+      "i": 126,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 食品"
+    },
+    {
+      "i": 127,
+      "gold": 2,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 机の上"
+    },
+    {
+      "i": 128,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 股引"
+    },
+    {
+      "i": 129,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 婦"
+    },
+    {
+      "i": 130,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 国家"
+    },
+    {
+      "i": 131,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ガスステーション"
+    },
+    {
+      "i": 132,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ジグソーパズル"
+    },
+    {
+      "i": 133,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. テーブルクロス"
+    },
+    {
+      "i": 134,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ポット"
+    },
+    {
+      "i": 135,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 衆議院"
+    },
+    {
+      "i": 136,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 築地"
+    },
+    {
+      "i": 137,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 汚い"
+    },
+    {
+      "i": 138,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 風呂"
+    },
+    {
+      "i": 139,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 道"
+    },
+    {
+      "i": 140,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 黒板消し"
+    },
+    {
+      "i": 141,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. バイオレンス"
+    },
+    {
+      "i": 142,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. お年玉"
+    },
+    {
+      "i": 143,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ストア"
+    },
+    {
+      "i": 144,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 北朝鮮"
+    },
+    {
+      "i": 145,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 舟"
+    },
+    {
+      "i": 146,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. アドバンテージ"
+    },
+    {
+      "i": 147,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 蕎麦"
+    },
+    {
+      "i": 148,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 砂浜"
+    },
+    {
+      "i": 149,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 和平"
+    },
+    {
+      "i": 150,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 条件付き表現式"
+    },
+    {
+      "i": 151,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 取り立て"
+    },
+    {
+      "i": 152,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. マット"
+    },
+    {
+      "i": 153,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 健康になる"
+    },
+    {
+      "i": 154,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. カレー丼"
+    },
+    {
+      "i": 155,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 中性子"
+    },
+    {
+      "i": 156,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 店"
+    },
+    {
+      "i": 157,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 奥さん"
+    },
+    {
+      "i": 158,
+      "gold": 4,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 犬"
+    },
+    {
+      "i": 159,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. メモリ"
+    },
+    {
+      "i": 160,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 図を書くこと"
+    },
+    {
+      "i": 161,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 脳"
+    },
+    {
+      "i": 162,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 包丁"
+    },
+    {
+      "i": 163,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 福音主義"
+    },
+    {
+      "i": 164,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 三輪車"
+    },
+    {
+      "i": 165,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 小部屋"
+    },
+    {
+      "i": 166,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 星"
+    },
+    {
+      "i": 167,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 大臣になる"
+    },
+    {
+      "i": 168,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 金塊"
+    },
+    {
+      "i": 169,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. はさみ"
+    },
+    {
+      "i": 170,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ショップ"
+    },
+    {
+      "i": 171,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 皿"
+    },
+    {
+      "i": 172,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 海"
+    },
+    {
+      "i": 173,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 空"
+    },
+    {
+      "i": 174,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 肺癌"
+    },
+    {
+      "i": 175,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. シビックセンター"
+    },
+    {
+      "i": 176,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. トヨタ"
+    },
+    {
+      "i": 177,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 準備する"
+    },
+    {
+      "i": 178,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 歩行"
+    },
+    {
+      "i": 179,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 陰謀"
+    },
+    {
+      "i": 180,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 自動車免許"
+    },
+    {
+      "i": 181,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 零れ桜"
+    },
+    {
+      "i": 182,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. クローゼット"
+    },
+    {
+      "i": 183,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. お金"
+    },
+    {
+      "i": 184,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. お姉様"
+    },
+    {
+      "i": 185,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 横断"
+    },
+    {
+      "i": 186,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 気がある"
+    },
+    {
+      "i": 187,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 国"
+    },
+    {
+      "i": 188,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 家"
+    },
+    {
+      "i": 189,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 難題"
+    },
+    {
+      "i": 190,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 百貨店"
+    },
+    {
+      "i": 191,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ニコチン中毒"
+    },
+    {
+      "i": 192,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 駅"
+    },
+    {
+      "i": 193,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 棚"
+    },
+    {
+      "i": 194,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. お経"
+    },
+    {
+      "i": 195,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 筆箱"
+    },
+    {
+      "i": 196,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 田舎"
+    },
+    {
+      "i": 197,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ハウス"
+    },
+    {
+      "i": 198,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 論説"
+    },
+    {
+      "i": 199,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 中国"
+    },
+    {
+      "i": 200,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 非常口"
+    },
+    {
+      "i": 201,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 海老茶"
+    },
+    {
+      "i": 202,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 会合"
+    },
+    {
+      "i": 203,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 週刊誌"
+    },
+    {
+      "i": 204,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 教卓"
+    },
+    {
+      "i": 205,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 八百屋"
+    },
+    {
+      "i": 206,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. インターネット"
+    },
+    {
+      "i": 207,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 貯金する"
+    },
+    {
+      "i": 208,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 地下"
+    },
+    {
+      "i": 209,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 希土類元素"
+    },
+    {
+      "i": 210,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 生命"
+    },
+    {
+      "i": 211,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 郡"
+    },
+    {
+      "i": 212,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. スキー"
+    },
+    {
+      "i": 213,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ベッドルーム"
+    },
+    {
+      "i": 214,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 浮遊する"
+    },
+    {
+      "i": 215,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 法王"
+    },
+    {
+      "i": 216,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 空港"
+    },
+    {
+      "i": 217,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 歌"
+    },
+    {
+      "i": 218,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. びん"
+    },
+    {
+      "i": 219,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 四月"
+    },
+    {
+      "i": 220,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 先頭"
+    },
+    {
+      "i": 221,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 空気"
+    },
+    {
+      "i": 222,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 院生"
+    },
+    {
+      "i": 223,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 牛糞"
+    },
+    {
+      "i": 224,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. マスター"
+    },
+    {
+      "i": 225,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 箱"
+    },
+    {
+      "i": 226,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 鉛筆"
+    },
+    {
+      "i": 227,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. トイレ"
+    },
+    {
+      "i": 228,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 総督"
+    },
+    {
+      "i": 229,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 頂上"
+    },
+    {
+      "i": 230,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 仕手株"
+    },
+    {
+      "i": 231,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 炭素税"
+    },
+    {
+      "i": 232,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 書店"
+    },
+    {
+      "i": 233,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 日本"
+    },
+    {
+      "i": 234,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 人生"
+    },
+    {
+      "i": 235,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ペーパー"
+    },
+    {
+      "i": 236,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 郵便"
+    },
+    {
+      "i": 237,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 話者"
+    },
+    {
+      "i": 238,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ワインセラー"
+    },
+    {
+      "i": 239,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 船"
+    },
+    {
+      "i": 240,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. スタジオ"
+    },
+    {
+      "i": 241,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 便器"
+    },
+    {
+      "i": 242,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. みかん"
+    },
+    {
+      "i": 243,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 漁船"
+    },
+    {
+      "i": 244,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 台所"
+    },
+    {
+      "i": 245,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ストレス"
+    },
+    {
+      "i": 246,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 電器店"
+    },
+    {
+      "i": 247,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ひも"
+    },
+    {
+      "i": 248,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 寮"
+    },
+    {
+      "i": 249,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 表面"
+    },
+    {
+      "i": 250,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 野球場"
+    },
+    {
+      "i": 251,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ビール"
+    },
+    {
+      "i": 252,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. コケ"
+    },
+    {
+      "i": 253,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 便箋"
+    },
+    {
+      "i": 254,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. もぐっている人"
+    },
+    {
+      "i": 255,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 飲み過ぎ"
+    },
+    {
+      "i": 256,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. モントーヤ"
+    },
+    {
+      "i": 257,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 犬"
+    },
+    {
+      "i": 258,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. オーストリア"
+    },
+    {
+      "i": 259,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 学校"
+    },
+    {
+      "i": 260,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 田植え"
+    },
+    {
+      "i": 261,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ダウンタウン"
+    },
+    {
+      "i": 262,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 準備する"
+    },
+    {
+      "i": 263,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. チョーク"
+    },
+    {
+      "i": 264,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. バナナボート"
+    },
+    {
+      "i": 265,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ニュートン"
+    },
+    {
+      "i": 266,
+      "gold": 0,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 東京タワー"
+    },
+    {
+      "i": 267,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 木魚"
+    },
+    {
+      "i": 268,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 入れ換える"
+    },
+    {
+      "i": 269,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. キーボード"
+    },
+    {
+      "i": 270,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. スポーツ"
+    },
+    {
+      "i": 271,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 詐欺"
+    },
+    {
+      "i": 272,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 元は"
+    },
+    {
+      "i": 273,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ポケット"
+    },
+    {
+      "i": 274,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 電話"
+    },
+    {
+      "i": 275,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 古今亭"
+    },
+    {
+      "i": 276,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 車庫"
+    },
+    {
+      "i": 277,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. スポーツ"
+    },
+    {
+      "i": 278,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 大道具"
+    },
+    {
+      "i": 279,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 収穫"
+    },
+    {
+      "i": 280,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 食事をする"
+    },
+    {
+      "i": 281,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 卓"
+    },
+    {
+      "i": 282,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 陰電子"
+    },
+    {
+      "i": 283,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. シール"
+    },
+    {
+      "i": 284,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 蜜蜂"
+    },
+    {
+      "i": 285,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 反政府"
+    },
+    {
+      "i": 286,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 家"
+    },
+    {
+      "i": 287,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 東京"
+    },
+    {
+      "i": 288,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 礼拝堂"
+    },
+    {
+      "i": 289,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ペンチ"
+    },
+    {
+      "i": 290,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 県大会"
+    },
+    {
+      "i": 291,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ノートパッド"
+    },
+    {
+      "i": 292,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 飛行機"
+    },
+    {
+      "i": 293,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 森"
+    },
+    {
+      "i": 294,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 映画俳優"
+    },
+    {
+      "i": 295,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 押入れ"
+    },
+    {
+      "i": 296,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 受付"
+    },
+    {
+      "i": 297,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 調べる"
+    },
+    {
+      "i": 298,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 盤上"
+    },
+    {
+      "i": 299,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 体重を減らす"
+    },
+    {
+      "i": 300,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 桶狭間"
+    },
+    {
+      "i": 301,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 縄"
+    },
+    {
+      "i": 302,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 着替えする"
+    },
+    {
+      "i": 303,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. スーパー"
+    },
+    {
+      "i": 304,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. パーテーション"
+    },
+    {
+      "i": 305,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. リビングルーム"
+    },
+    {
+      "i": 306,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. とぶ"
+    },
+    {
+      "i": 307,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 東京タワー"
+    },
+    {
+      "i": 308,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 虹"
+    },
+    {
+      "i": 309,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 風邪"
+    },
+    {
+      "i": 310,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 押し入れ"
+    },
+    {
+      "i": 311,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 地球"
+    },
+    {
+      "i": 312,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 殺害"
+    },
+    {
+      "i": 313,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 国語"
+    },
+    {
+      "i": 314,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 詩人"
+    },
+    {
+      "i": 315,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. あみだくじ"
+    },
+    {
+      "i": 316,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ファミリー"
+    },
+    {
+      "i": 317,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 木綿織"
+    },
+    {
+      "i": 318,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 魚"
+    },
+    {
+      "i": 319,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 都道府県"
+    },
+    {
+      "i": 320,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. サン"
+    },
+    {
+      "i": 321,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 右腕"
+    },
+    {
+      "i": 322,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 口論"
+    },
+    {
+      "i": 323,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ホワイトボード"
+    },
+    {
+      "i": 324,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 虫"
+    },
+    {
+      "i": 325,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 総合する"
+    },
+    {
+      "i": 326,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 医師"
+    },
+    {
+      "i": 327,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 安心"
+    },
+    {
+      "i": 328,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 油井"
+    },
+    {
+      "i": 329,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. サイレンサー"
+    },
+    {
+      "i": 330,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 美容院"
+    },
+    {
+      "i": 331,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 車"
+    },
+    {
+      "i": 332,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ライフル銃"
+    },
+    {
+      "i": 333,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 水槽"
+    },
+    {
+      "i": 334,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 相撲人"
+    },
+    {
+      "i": 335,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 防衛"
+    },
+    {
+      "i": 336,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 洗面所"
+    },
+    {
+      "i": 337,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 黒板"
+    },
+    {
+      "i": 338,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ファクシミリ"
+    },
+    {
+      "i": 339,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 中学生"
+    },
+    {
+      "i": 340,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 小浜"
+    },
+    {
+      "i": 341,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 天井"
+    },
+    {
+      "i": 342,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 電気鰻"
+    },
+    {
+      "i": 343,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 国会議事堂"
+    },
+    {
+      "i": 344,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 最終処分場"
+    },
+    {
+      "i": 345,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 千葉市"
+    },
+    {
+      "i": 346,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. イカ"
+    },
+    {
+      "i": 347,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 福岡"
+    },
+    {
+      "i": 348,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 飲み屋"
+    },
+    {
+      "i": 349,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 青果"
+    },
+    {
+      "i": 350,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ステーキ"
+    },
+    {
+      "i": 351,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 競技をする"
+    },
+    {
+      "i": 352,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 美しい"
+    },
+    {
+      "i": 353,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 詩人"
+    },
+    {
+      "i": 354,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 孤児院"
+    },
+    {
+      "i": 355,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ニューヨーク"
+    },
+    {
+      "i": 356,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 爪"
+    },
+    {
+      "i": 357,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. テレビ"
+    },
+    {
+      "i": 358,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. クアラルンプール"
+    },
+    {
+      "i": 359,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. くるぶし"
+    },
+    {
+      "i": 360,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. かぶとむし"
+    },
+    {
+      "i": 361,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. はさみ"
+    },
+    {
+      "i": 362,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. イタリー"
+    },
+    {
+      "i": 363,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 絹"
+    },
+    {
+      "i": 364,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ネブラスカ"
+    },
+    {
+      "i": 365,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 外出"
+    },
+    {
+      "i": 366,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 電子レンジ"
+    },
+    {
+      "i": 367,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 錠剤"
+    },
+    {
+      "i": 368,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. イチジク"
+    },
+    {
+      "i": 369,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 拘置所"
+    },
+    {
+      "i": 370,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 不倫妻"
+    },
+    {
+      "i": 371,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 食洗機"
+    },
+    {
+      "i": 372,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. リアル"
+    },
+    {
+      "i": 373,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 奴隷売買"
+    },
+    {
+      "i": 374,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ビニール袋"
+    },
+    {
+      "i": 375,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. フライパン"
+    },
+    {
+      "i": 376,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 昆虫"
+    },
+    {
+      "i": 377,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ボトル"
+    },
+    {
+      "i": 378,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. シンク"
+    },
+    {
+      "i": 379,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 解答する"
+    },
+    {
+      "i": 380,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ランニング"
+    },
+    {
+      "i": 381,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 築地"
+    },
+    {
+      "i": 382,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. クアラルンプール"
+    },
+    {
+      "i": 383,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 販売員"
+    },
+    {
+      "i": 384,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 帽子"
+    },
+    {
+      "i": 385,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. アパート"
+    },
+    {
+      "i": 386,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 歌舞伎揚げ"
+    },
+    {
+      "i": 387,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 桃尻"
+    },
+    {
+      "i": 388,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ようだ"
+    },
+    {
+      "i": 389,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. かくため"
+    },
+    {
+      "i": 390,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 楽器"
+    },
+    {
+      "i": 391,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 食料品店"
+    },
+    {
+      "i": 392,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 瓦"
+    },
+    {
+      "i": 393,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 長崎県"
+    },
+    {
+      "i": 394,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. デパート"
+    },
+    {
+      "i": 395,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 介護施設"
+    },
+    {
+      "i": 396,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ドア"
+    },
+    {
+      "i": 397,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ミラー"
+    },
+    {
+      "i": 398,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 中華料理店"
+    },
+    {
+      "i": 399,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. サメ"
+    },
+    {
+      "i": 400,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. カーオーディオ"
+    },
+    {
+      "i": 401,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 声"
+    },
+    {
+      "i": 402,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 料理"
+    },
+    {
+      "i": 403,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ヒトデ"
+    },
+    {
+      "i": 404,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. リモートコントロール"
+    },
+    {
+      "i": 405,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 千葉県"
+    },
+    {
+      "i": 406,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 底"
+    },
+    {
+      "i": 407,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ニュージーランド"
+    },
+    {
+      "i": 408,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 肉"
+    },
+    {
+      "i": 409,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 目処が付く"
+    },
+    {
+      "i": 410,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 豆腐"
+    },
+    {
+      "i": 411,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ニューヨーク"
+    },
+    {
+      "i": 412,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 成り切る"
+    },
+    {
+      "i": 413,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 楽隊"
+    },
+    {
+      "i": 414,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. カプセルホテル"
+    },
+    {
+      "i": 415,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 駐日"
+    },
+    {
+      "i": 416,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 銅"
+    },
+    {
+      "i": 417,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 収納室"
+    },
+    {
+      "i": 418,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 書店"
+    },
+    {
+      "i": 419,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 黒歴史"
+    },
+    {
+      "i": 420,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ホットケーキ"
+    },
+    {
+      "i": 421,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 森林"
+    },
+    {
+      "i": 422,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. スプレー"
+    },
+    {
+      "i": 423,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. コンクリート"
+    },
+    {
+      "i": 424,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 書房"
+    },
+    {
+      "i": 425,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 唱歌集"
+    },
+    {
+      "i": 426,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. つめ"
+    },
+    {
+      "i": 427,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ものさし"
+    },
+    {
+      "i": 428,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 大群"
+    },
+    {
+      "i": 429,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 野球場"
+    },
+    {
+      "i": 430,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. シアター"
+    },
+    {
+      "i": 431,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 読書"
+    },
+    {
+      "i": 432,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 藻"
+    },
+    {
+      "i": 433,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ホームスクール"
+    },
+    {
+      "i": 434,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 財布"
+    },
+    {
+      "i": 435,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 絵具塗り"
+    },
+    {
+      "i": 436,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 自衛隊"
+    },
+    {
+      "i": 437,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ビル"
+    },
+    {
+      "i": 438,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 鎖国"
+    },
+    {
+      "i": 439,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ケーブル"
+    },
+    {
+      "i": 440,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 精神病院"
+    },
+    {
+      "i": 441,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 住む家のない人"
+    },
+    {
+      "i": 442,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 屑"
+    },
+    {
+      "i": 443,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 大学"
+    },
+    {
+      "i": 444,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 天津飯"
+    },
+    {
+      "i": 445,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 兵を挙げる"
+    },
+    {
+      "i": 446,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 大砲"
+    },
+    {
+      "i": 447,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. アパート"
+    },
+    {
+      "i": 448,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 道路"
+    },
+    {
+      "i": 449,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 傘"
+    },
+    {
+      "i": 450,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 取締役"
+    },
+    {
+      "i": 451,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 国民"
+    },
+    {
+      "i": 452,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ピストル"
+    },
+    {
+      "i": 453,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ギョーザ"
+    },
+    {
+      "i": 454,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 上掛"
+    },
+    {
+      "i": 455,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. デジタルカメラ"
+    },
+    {
+      "i": 456,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 鋏状価格差"
+    },
+    {
+      "i": 457,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 空港"
+    },
+    {
+      "i": 458,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 二輪"
+    },
+    {
+      "i": 459,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 手の指"
+    },
+    {
+      "i": 460,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. チェスト"
+    },
+    {
+      "i": 461,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 森林"
+    },
+    {
+      "i": 462,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 合衆国"
+    },
+    {
+      "i": 463,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 軽蔑"
+    },
+    {
+      "i": 464,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 足跡"
+    },
+    {
+      "i": 465,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ファイル"
+    },
+    {
+      "i": 466,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. コラーゲン"
+    },
+    {
+      "i": 467,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. チェスの駒"
+    },
+    {
+      "i": 468,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 帰郷する"
+    },
+    {
+      "i": 469,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 梅雨"
+    },
+    {
+      "i": 470,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 羨む"
+    },
+    {
+      "i": 471,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 本屋"
+    },
+    {
+      "i": 472,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 低利資金"
+    },
+    {
+      "i": 473,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 丈夫"
+    },
+    {
+      "i": 474,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. アメリカ"
+    },
+    {
+      "i": 475,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 学問"
+    },
+    {
+      "i": 476,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 天井"
+    },
+    {
+      "i": 477,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 胃袋"
+    },
+    {
+      "i": 478,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. スーパー"
+    },
+    {
+      "i": 479,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. はさみ"
+    },
+    {
+      "i": 480,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. スポンジ"
+    },
+    {
+      "i": 481,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ペンシル"
+    },
+    {
+      "i": 482,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 監禁"
+    },
+    {
+      "i": 483,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 建物"
+    },
+    {
+      "i": 484,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 魔女"
+    },
+    {
+      "i": 485,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. スター"
+    },
+    {
+      "i": 486,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 企業"
+    },
+    {
+      "i": 487,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 航空券"
+    },
+    {
+      "i": 488,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 学校"
+    },
+    {
+      "i": 489,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 文学"
+    },
+    {
+      "i": 490,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 都市"
+    },
+    {
+      "i": 491,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 愛"
+    },
+    {
+      "i": 492,
+      "gold": 4,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ハサミ"
+    },
+    {
+      "i": 493,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 畳"
+    },
+    {
+      "i": 494,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 横断"
+    },
+    {
+      "i": 495,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 飼料"
+    },
+    {
+      "i": 496,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. クロール"
+    },
+    {
+      "i": 497,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 楽しむこと"
+    },
+    {
+      "i": 498,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. お風呂屋"
+    },
+    {
+      "i": 499,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 陰陽"
+    },
+    {
+      "i": 500,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 朝食"
+    },
+    {
+      "i": 501,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 服を脱ぐこと"
+    },
+    {
+      "i": 502,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. お面"
+    },
+    {
+      "i": 503,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 日本"
+    },
+    {
+      "i": 504,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 飲み水"
+    },
+    {
+      "i": 505,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. とんぼ"
+    },
+    {
+      "i": 506,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 砂糖大根"
+    },
+    {
+      "i": 507,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 牧場"
+    },
+    {
+      "i": 508,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 駅"
+    },
+    {
+      "i": 509,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 果てしない"
+    },
+    {
+      "i": 510,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 金網"
+    },
+    {
+      "i": 511,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 絵"
+    },
+    {
+      "i": 512,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 危うい"
+    },
+    {
+      "i": 513,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 親日"
+    },
+    {
+      "i": 514,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ゴミ"
+    },
+    {
+      "i": 515,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 城"
+    },
+    {
+      "i": 516,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ふた"
+    },
+    {
+      "i": 517,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 鶏肉"
+    },
+    {
+      "i": 518,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. つめ"
+    },
+    {
+      "i": 519,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 流し撮り"
+    },
+    {
+      "i": 520,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 写真機店"
+    },
+    {
+      "i": 521,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 待合室"
+    },
+    {
+      "i": 522,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 梁"
+    },
+    {
+      "i": 523,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 音楽"
+    },
+    {
+      "i": 524,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 洗濯する"
+    },
+    {
+      "i": 525,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 図書館"
+    },
+    {
+      "i": 526,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 蛇"
+    },
+    {
+      "i": 527,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 代わり"
+    },
+    {
+      "i": 528,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 引出"
+    },
+    {
+      "i": 529,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. スーツ"
+    },
+    {
+      "i": 530,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. はさみ"
+    },
+    {
+      "i": 531,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 土"
+    },
+    {
+      "i": 532,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 実験室"
+    },
+    {
+      "i": 533,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 工具"
+    },
+    {
+      "i": 534,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ランプ"
+    },
+    {
+      "i": 535,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 大学"
+    },
+    {
+      "i": 536,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 危うい"
+    },
+    {
+      "i": 537,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 牧草"
+    },
+    {
+      "i": 538,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. マサチューセッツ工科大学"
+    },
+    {
+      "i": 539,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 細道"
+    },
+    {
+      "i": 540,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 長生きする"
+    },
+    {
+      "i": 541,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 身体"
+    },
+    {
+      "i": 542,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. いかつい"
+    },
+    {
+      "i": 543,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 戸棚"
+    },
+    {
+      "i": 544,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 演芸場"
+    },
+    {
+      "i": 545,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 大河"
+    },
+    {
+      "i": 546,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 民族"
+    },
+    {
+      "i": 547,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 教本"
+    },
+    {
+      "i": 548,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 商品"
+    },
+    {
+      "i": 549,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 美術館"
+    },
+    {
+      "i": 550,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 本"
+    },
+    {
+      "i": 551,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 信号"
+    },
+    {
+      "i": 552,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 礼拝堂"
+    },
+    {
+      "i": 553,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 屋外"
+    },
+    {
+      "i": 554,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. マーケット"
+    },
+    {
+      "i": 555,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. いぬ"
+    },
+    {
+      "i": 556,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 国会"
+    },
+    {
+      "i": 557,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ごみを捨てる"
+    },
+    {
+      "i": 558,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ビル"
+    },
+    {
+      "i": 559,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. バンド"
+    },
+    {
+      "i": 560,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 机"
+    },
+    {
+      "i": 561,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 砂浜"
+    },
+    {
+      "i": 562,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 車"
+    },
+    {
+      "i": 563,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 出張"
+    },
+    {
+      "i": 564,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. デジタルカメラ"
+    },
+    {
+      "i": 565,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 手指"
+    },
+    {
+      "i": 566,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 林"
+    },
+    {
+      "i": 567,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 牧畜"
+    },
+    {
+      "i": 568,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 公立大学"
+    },
+    {
+      "i": 569,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 缶"
+    },
+    {
+      "i": 570,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 内"
+    },
+    {
+      "i": 571,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ハンドバッグ"
+    },
+    {
+      "i": 572,
+      "gold": 0,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. テキサス"
+    },
+    {
+      "i": 573,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 歯科"
+    },
+    {
+      "i": 574,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 押入れ"
+    },
+    {
+      "i": 575,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 化粧室"
+    },
+    {
+      "i": 576,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 軍隊"
+    },
+    {
+      "i": 577,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. おもちゃ"
+    },
+    {
+      "i": 578,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. シャワーカーテン"
+    },
+    {
+      "i": 579,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 稲荷"
+    },
+    {
+      "i": 580,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ウイルス"
+    },
+    {
+      "i": 581,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 努力する"
+    },
+    {
+      "i": 582,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 船舶"
+    },
+    {
+      "i": 583,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 補聴器"
+    },
+    {
+      "i": 584,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 性具"
+    },
+    {
+      "i": 585,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 札"
+    },
+    {
+      "i": 586,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 降雪"
+    },
+    {
+      "i": 587,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 嘘を付く"
+    },
+    {
+      "i": 588,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. おっぱい"
+    },
+    {
+      "i": 589,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 台座"
+    },
+    {
+      "i": 590,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ビニール"
+    },
+    {
+      "i": 591,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 晴れ着付き"
+    },
+    {
+      "i": 592,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 地面"
+    },
+    {
+      "i": 593,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 書架"
+    },
+    {
+      "i": 594,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 猪名野"
+    },
+    {
+      "i": 595,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 土産店"
+    },
+    {
+      "i": 596,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ビル"
+    },
+    {
+      "i": 597,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 水たまり"
+    },
+    {
+      "i": 598,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. リュックサック"
+    },
+    {
+      "i": 599,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 中東"
+    },
+    {
+      "i": 600,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. お金"
+    },
+    {
+      "i": 601,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 交差点"
+    },
+    {
+      "i": 602,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 俳人"
+    },
+    {
+      "i": 603,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. デパート"
+    },
+    {
+      "i": 604,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 軒"
+    },
+    {
+      "i": 605,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. カフェ"
+    },
+    {
+      "i": 606,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 手に入れる"
+    },
+    {
+      "i": 607,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. アイスボックス"
+    },
+    {
+      "i": 608,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. テレビ受像機"
+    },
+    {
+      "i": 609,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. プレイ"
+    },
+    {
+      "i": 610,
+      "gold": 0,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 担々麺"
+    },
+    {
+      "i": 611,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 旅館"
+    },
+    {
+      "i": 612,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. カップ"
+    },
+    {
+      "i": 613,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 棚"
+    },
+    {
+      "i": 614,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 便座"
+    },
+    {
+      "i": 615,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 鏡台"
+    },
+    {
+      "i": 616,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 連絡先"
+    },
+    {
+      "i": 617,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 筋肉痛"
+    },
+    {
+      "i": 618,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ワインセラー"
+    },
+    {
+      "i": 619,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 歌劇"
+    },
+    {
+      "i": 620,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 心配"
+    },
+    {
+      "i": 621,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. テーブルクロス"
+    },
+    {
+      "i": 622,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 落語家"
+    },
+    {
+      "i": 623,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ゴム手袋"
+    },
+    {
+      "i": 624,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 日焼け"
+    },
+    {
+      "i": 625,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 山々"
+    },
+    {
+      "i": 626,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 屋根"
+    },
+    {
+      "i": 627,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. カーペット"
+    },
+    {
+      "i": 628,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ミサイル"
+    },
+    {
+      "i": 629,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ヒラメ筋"
+    },
+    {
+      "i": 630,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. バンド"
+    },
+    {
+      "i": 631,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. カップ"
+    },
+    {
+      "i": 632,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 函館"
+    },
+    {
+      "i": 633,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 柵"
+    },
+    {
+      "i": 634,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 上司"
+    },
+    {
+      "i": 635,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 開く"
+    },
+    {
+      "i": 636,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 冷蔵庫"
+    },
+    {
+      "i": 637,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 言語"
+    },
+    {
+      "i": 638,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 橋渡"
+    },
+    {
+      "i": 639,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 役員"
+    },
+    {
+      "i": 640,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. キャベツ"
+    },
+    {
+      "i": 641,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. テーブル"
+    },
+    {
+      "i": 642,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 負傷"
+    },
+    {
+      "i": 643,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 成長"
+    },
+    {
+      "i": 644,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 祭り"
+    },
+    {
+      "i": 645,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 口拭き"
+    },
+    {
+      "i": 646,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 客室"
+    },
+    {
+      "i": 647,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 明るい"
+    },
+    {
+      "i": 648,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ウォール街"
+    },
+    {
+      "i": 649,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 下駄箱"
+    },
+    {
+      "i": 650,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 糸電話"
+    },
+    {
+      "i": 651,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 家畜"
+    },
+    {
+      "i": 652,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 質問をする"
+    },
+    {
+      "i": 653,
+      "gold": 4,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 鏡台"
+    },
+    {
+      "i": 654,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 入れ換える"
+    },
+    {
+      "i": 655,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 料理"
+    },
+    {
+      "i": 656,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 国"
+    },
+    {
+      "i": 657,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. たくさんの人"
+    },
+    {
+      "i": 658,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 熱い"
+    },
+    {
+      "i": 659,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 国民"
+    },
+    {
+      "i": 660,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 階段"
+    },
+    {
+      "i": 661,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 入江"
+    },
+    {
+      "i": 662,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. イントネーション"
+    },
+    {
+      "i": 663,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 理容室"
+    },
+    {
+      "i": 664,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 破産"
+    },
+    {
+      "i": 665,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 気持ちを高揚させる"
+    },
+    {
+      "i": 666,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 木更津"
+    },
+    {
+      "i": 667,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 逗子"
+    },
+    {
+      "i": 668,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ブラックホール"
+    },
+    {
+      "i": 669,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 自動ドア"
+    },
+    {
+      "i": 670,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 平和学"
+    },
+    {
+      "i": 671,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 大根"
+    },
+    {
+      "i": 672,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 車庫"
+    },
+    {
+      "i": 673,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 火消し"
+    },
+    {
+      "i": 674,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ベンチ"
+    },
+    {
+      "i": 675,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. モーター"
+    },
+    {
+      "i": 676,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 電波"
+    },
+    {
+      "i": 677,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 地盤"
+    },
+    {
+      "i": 678,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 食器棚"
+    },
+    {
+      "i": 679,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 端子"
+    },
+    {
+      "i": 680,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 教会"
+    },
+    {
+      "i": 681,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 工事"
+    },
+    {
+      "i": 682,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. メモ"
+    },
+    {
+      "i": 683,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 焼酎"
+    },
+    {
+      "i": 684,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 入り口"
+    },
+    {
+      "i": 685,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 野球場"
+    },
+    {
+      "i": 686,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 太陽"
+    },
+    {
+      "i": 687,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 爪"
+    },
+    {
+      "i": 688,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 欧州"
+    },
+    {
+      "i": 689,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. シャワー室"
+    },
+    {
+      "i": 690,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 安全"
+    },
+    {
+      "i": 691,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 役柄"
+    },
+    {
+      "i": 692,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 革"
+    },
+    {
+      "i": 693,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 葡萄"
+    },
+    {
+      "i": 694,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 見物人"
+    },
+    {
+      "i": 695,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ストレス解消"
+    },
+    {
+      "i": 696,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 帽子"
+    },
+    {
+      "i": 697,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 菌"
+    },
+    {
+      "i": 698,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 埃"
+    },
+    {
+      "i": 699,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 七味"
+    },
+    {
+      "i": 700,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 海"
+    },
+    {
+      "i": 701,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. グレートバリアリーフ"
+    },
+    {
+      "i": 702,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 会社説明会"
+    },
+    {
+      "i": 703,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 文書"
+    },
+    {
+      "i": 704,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. レニングラード"
+    },
+    {
+      "i": 705,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 頭脳"
+    },
+    {
+      "i": 706,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 迷子"
+    },
+    {
+      "i": 707,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 授業"
+    },
+    {
+      "i": 708,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. キウイフルーツ"
+    },
+    {
+      "i": 709,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 明るいこと"
+    },
+    {
+      "i": 710,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 列"
+    },
+    {
+      "i": 711,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 開く"
+    },
+    {
+      "i": 712,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. フードテーマパーク"
+    },
+    {
+      "i": 713,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 引出"
+    },
+    {
+      "i": 714,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 汗をふくこと"
+    },
+    {
+      "i": 715,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ローラーコースター"
+    },
+    {
+      "i": 716,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ボトル"
+    },
+    {
+      "i": 717,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 歌を歌うこと"
+    },
+    {
+      "i": 718,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 受け皿"
+    },
+    {
+      "i": 719,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ハンマー"
+    },
+    {
+      "i": 720,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 老人ホーム"
+    },
+    {
+      "i": 721,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. リンゴ"
+    },
+    {
+      "i": 722,
+      "gold": 2,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 質問をする"
+    },
+    {
+      "i": 723,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. うれしい"
+    },
+    {
+      "i": 724,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 扇風機"
+    },
+    {
+      "i": 725,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 上司"
+    },
+    {
+      "i": 726,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 粉"
+    },
+    {
+      "i": 727,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ドリンク"
+    },
+    {
+      "i": 728,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 買い物袋"
+    },
+    {
+      "i": 729,
+      "gold": 0,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 家"
+    },
+    {
+      "i": 730,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 県庁所在地"
+    },
+    {
+      "i": 731,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 時刻表"
+    },
+    {
+      "i": 732,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 亜鉛鉄板"
+    },
+    {
+      "i": 733,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. マネージャー"
+    },
+    {
+      "i": 734,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. バーナー"
+    },
+    {
+      "i": 735,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. チャーチ"
+    },
+    {
+      "i": 736,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 気分"
+    },
+    {
+      "i": 737,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ドリンク"
+    },
+    {
+      "i": 738,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 人"
+    },
+    {
+      "i": 739,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ポケット"
+    },
+    {
+      "i": 740,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 付けで買う"
+    },
+    {
+      "i": 741,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. カーニバル"
+    },
+    {
+      "i": 742,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 南部"
+    },
+    {
+      "i": 743,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 筆"
+    },
+    {
+      "i": 744,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 山登り"
+    },
+    {
+      "i": 745,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 電車に乗る"
+    },
+    {
+      "i": 746,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 菌"
+    },
+    {
+      "i": 747,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 美しい"
+    },
+    {
+      "i": 748,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 買う"
+    },
+    {
+      "i": 749,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 学術"
+    },
+    {
+      "i": 750,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 詩"
+    },
+    {
+      "i": 751,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 物音"
+    },
+    {
+      "i": 752,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. レター"
+    },
+    {
+      "i": 753,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 茉莉花"
+    },
+    {
+      "i": 754,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ワイパー"
+    },
+    {
+      "i": 755,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 腰掛"
+    },
+    {
+      "i": 756,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. お皿"
+    },
+    {
+      "i": 757,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 腰部"
+    },
+    {
+      "i": 758,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 作動"
+    },
+    {
+      "i": 759,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ピザ"
+    },
+    {
+      "i": 760,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 台所"
+    },
+    {
+      "i": 761,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 水虫"
+    },
+    {
+      "i": 762,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 座禅"
+    },
+    {
+      "i": 763,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. キャベツ"
+    },
+    {
+      "i": 764,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 探知する"
+    },
+    {
+      "i": 765,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 東京ドーム"
+    },
+    {
+      "i": 766,
+      "gold": 4,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 絵巻"
+    },
+    {
+      "i": 767,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. トルコ"
+    },
+    {
+      "i": 768,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. グラス"
+    },
+    {
+      "i": 769,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 殺し"
+    },
+    {
+      "i": 770,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. オフィスビル"
+    },
+    {
+      "i": 771,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 居酒屋"
+    },
+    {
+      "i": 772,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 犯人"
+    },
+    {
+      "i": 773,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 国民"
+    },
+    {
+      "i": 774,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 黄色猩猩蝿"
+    },
+    {
+      "i": 775,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ネコ"
+    },
+    {
+      "i": 776,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 小麦粉"
+    },
+    {
+      "i": 777,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 人間"
+    },
+    {
+      "i": 778,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 苦痛"
+    },
+    {
+      "i": 779,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 野球場"
+    },
+    {
+      "i": 780,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. カリフォルニア"
+    },
+    {
+      "i": 781,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 石"
+    },
+    {
+      "i": 782,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 展示品を見る"
+    },
+    {
+      "i": 783,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 高層"
+    },
+    {
+      "i": 784,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 日本"
+    },
+    {
+      "i": 785,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 手荷物"
+    },
+    {
+      "i": 786,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ノートブック"
+    },
+    {
+      "i": 787,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 番号"
+    },
+    {
+      "i": 788,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 駄菓子屋"
+    },
+    {
+      "i": 789,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 水泳"
+    },
+    {
+      "i": 790,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 戸棚"
+    },
+    {
+      "i": 791,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. シャベル"
+    },
+    {
+      "i": 792,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 調子付く"
+    },
+    {
+      "i": 793,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ふくらはぎ"
+    },
+    {
+      "i": 794,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 暗黒時代"
+    },
+    {
+      "i": 795,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 人々"
+    },
+    {
+      "i": 796,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ゴミ箱"
+    },
+    {
+      "i": 797,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 電話帳"
+    },
+    {
+      "i": 798,
+      "gold": 1,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 胸"
+    },
+    {
+      "i": 799,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 家屋"
+    },
+    {
+      "i": 800,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 愛知県"
+    },
+    {
+      "i": 801,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 花火"
+    },
+    {
+      "i": 802,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 桜紅葉"
+    },
+    {
+      "i": 803,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. フライドポテト"
+    },
+    {
+      "i": 804,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 建物"
+    },
+    {
+      "i": 805,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 根菜"
+    },
+    {
+      "i": 806,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 文房具"
+    },
+    {
+      "i": 807,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 掃除機"
+    },
+    {
+      "i": 808,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 小便に行く"
+    },
+    {
+      "i": 809,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 岳"
+    },
+    {
+      "i": 810,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 明るいこと"
+    },
+    {
+      "i": 811,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 肥満"
+    },
+    {
+      "i": 812,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 火災報知機"
+    },
+    {
+      "i": 813,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 人物像"
+    },
+    {
+      "i": 814,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ブレーキ"
+    },
+    {
+      "i": 815,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 東南アジア"
+    },
+    {
+      "i": 816,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ニュージーランド"
+    },
+    {
+      "i": 817,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ガラス"
+    },
+    {
+      "i": 818,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 碇"
+    },
+    {
+      "i": 819,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 柏餅"
+    },
+    {
+      "i": 820,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 読書する"
+    },
+    {
+      "i": 821,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. プラスチック製"
+    },
+    {
+      "i": 822,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 嘆き"
+    },
+    {
+      "i": 823,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 石"
+    },
+    {
+      "i": 824,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 姫君"
+    },
+    {
+      "i": 825,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 畑仕事"
+    },
+    {
+      "i": 826,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 箱"
+    },
+    {
+      "i": 827,
+      "gold": 2,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 譲渡する"
+    },
+    {
+      "i": 828,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 地面"
+    },
+    {
+      "i": 829,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. パーティー"
+    },
+    {
+      "i": 830,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 看板"
+    },
+    {
+      "i": 831,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ガレージ"
+    },
+    {
+      "i": 832,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 鍵"
+    },
+    {
+      "i": 833,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 郵便局"
+    },
+    {
+      "i": 834,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. アパート"
+    },
+    {
+      "i": 835,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 保管物"
+    },
+    {
+      "i": 836,
+      "gold": 4,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 絶景"
+    },
+    {
+      "i": 837,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 水"
+    },
+    {
+      "i": 838,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 桜鯛"
+    },
+    {
+      "i": 839,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 夜雨"
+    },
+    {
+      "i": 840,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 滝"
+    },
+    {
+      "i": 841,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 走る"
+    },
+    {
+      "i": 842,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ストア"
+    },
+    {
+      "i": 843,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 電化製品"
+    },
+    {
+      "i": 844,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 燈"
+    },
+    {
+      "i": 845,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. サクソフォン"
+    },
+    {
+      "i": 846,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 髪が長いこと"
+    },
+    {
+      "i": 847,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. カステラ"
+    },
+    {
+      "i": 848,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 顔色が変わる"
+    },
+    {
+      "i": 849,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 食品"
+    },
+    {
+      "i": 850,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 本棚"
+    },
+    {
+      "i": 851,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ショー"
+    },
+    {
+      "i": 852,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ものさし"
+    },
+    {
+      "i": 853,
+      "gold": 2,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 津崎"
+    },
+    {
+      "i": 854,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 宅配便"
+    },
+    {
+      "i": 855,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 音楽堂"
+    },
+    {
+      "i": 856,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 糖質"
+    },
+    {
+      "i": 857,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 首"
+    },
+    {
+      "i": 858,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 履歴書"
+    },
+    {
+      "i": 859,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ジャングル"
+    },
+    {
+      "i": 860,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 猫"
+    },
+    {
+      "i": 861,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. シアター"
+    },
+    {
+      "i": 862,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 散策"
+    },
+    {
+      "i": 863,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 縄跳び"
+    },
+    {
+      "i": 864,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 息を付く"
+    },
+    {
+      "i": 865,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 家"
+    },
+    {
+      "i": 866,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 布団を干す"
+    },
+    {
+      "i": 867,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. モニュメント"
+    },
+    {
+      "i": 868,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. うま"
+    },
+    {
+      "i": 869,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 新聞"
+    },
+    {
+      "i": 870,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 霜"
+    },
+    {
+      "i": 871,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 平和"
+    },
+    {
+      "i": 872,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 平声"
+    },
+    {
+      "i": 873,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ヨーロッパ"
+    },
+    {
+      "i": 874,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 平和"
+    },
+    {
+      "i": 875,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 魚介類"
+    },
+    {
+      "i": 876,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. うちわ"
+    },
+    {
+      "i": 877,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. カーペット"
+    },
+    {
+      "i": 878,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 乾物"
+    },
+    {
+      "i": 879,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 世界"
+    },
+    {
+      "i": 880,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 国会図書館"
+    },
+    {
+      "i": 881,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ハワイ州"
+    },
+    {
+      "i": 882,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 縫い目"
+    },
+    {
+      "i": 883,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 郵便局"
+    },
+    {
+      "i": 884,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 通勤"
+    },
+    {
+      "i": 885,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 疲労"
+    },
+    {
+      "i": 886,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 親"
+    },
+    {
+      "i": 887,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 大工"
+    },
+    {
+      "i": 888,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 謝罪"
+    },
+    {
+      "i": 889,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 書庫"
+    },
+    {
+      "i": 890,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 店頭"
+    },
+    {
+      "i": 891,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 喪服"
+    },
+    {
+      "i": 892,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 歌う"
+    },
+    {
+      "i": 893,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 電車"
+    },
+    {
+      "i": 894,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 洗面所"
+    },
+    {
+      "i": 895,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. スープ"
+    },
+    {
+      "i": 896,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 人"
+    },
+    {
+      "i": 897,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. パーティ"
+    },
+    {
+      "i": 898,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 手すり"
+    },
+    {
+      "i": 899,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 食べ物"
+    },
+    {
+      "i": 900,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 停留所"
+    },
+    {
+      "i": 901,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. あめ"
+    },
+    {
+      "i": 902,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 東京"
+    },
+    {
+      "i": 903,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 玄関"
+    },
+    {
+      "i": 904,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. チラシ"
+    },
+    {
+      "i": 905,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 山括弧"
+    },
+    {
+      "i": 906,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 生き物"
+    },
+    {
+      "i": 907,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. シャーシ"
+    },
+    {
+      "i": 908,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 材料"
+    },
+    {
+      "i": 909,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ペン"
+    },
+    {
+      "i": 910,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. お祭り"
+    },
+    {
+      "i": 911,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 金沢"
+    },
+    {
+      "i": 912,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 部下"
+    },
+    {
+      "i": 913,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 足の指"
+    },
+    {
+      "i": 914,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 冬季"
+    },
+    {
+      "i": 915,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 山形県"
+    },
+    {
+      "i": 916,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. にこやか"
+    },
+    {
+      "i": 917,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 凍み付く"
+    },
+    {
+      "i": 918,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ひかり"
+    },
+    {
+      "i": 919,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 破壊"
+    },
+    {
+      "i": 920,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 尾翼"
+    },
+    {
+      "i": 921,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 換気口"
+    },
+    {
+      "i": 922,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ひらがな"
+    },
+    {
+      "i": 923,
+      "gold": 3,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 机"
+    },
+    {
+      "i": 924,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 台所"
+    },
+    {
+      "i": 925,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. コンビニ"
+    },
+    {
+      "i": 926,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 期末試験を受ける"
+    },
+    {
+      "i": 927,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 暴風雨"
+    },
+    {
+      "i": 928,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 飲み物"
+    },
+    {
+      "i": 929,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 花暦"
+    },
+    {
+      "i": 930,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ヒト"
+    },
+    {
+      "i": 931,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 警官"
+    },
+    {
+      "i": 932,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 兵士"
+    },
+    {
+      "i": 933,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 病院"
+    },
+    {
+      "i": 934,
+      "gold": 0,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 脱落者"
+    },
+    {
+      "i": 935,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ドナウ川"
+    },
+    {
+      "i": 936,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 鴛鴦"
+    },
+    {
+      "i": 937,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 田園"
+    },
+    {
+      "i": 938,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. フェス"
+    },
+    {
+      "i": 939,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. テラスハウス"
+    },
+    {
+      "i": 940,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 砂漠"
+    },
+    {
+      "i": 941,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 尾獣"
+    },
+    {
+      "i": 942,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 説明する"
+    },
+    {
+      "i": 943,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 西アジア"
+    },
+    {
+      "i": 944,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 野菜"
+    },
+    {
+      "i": 945,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. フルート"
+    },
+    {
+      "i": 946,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 手の指"
+    },
+    {
+      "i": 947,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 器具"
+    },
+    {
+      "i": 948,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ‘有線"
+    },
+    {
+      "i": 949,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 建物"
+    },
+    {
+      "i": 950,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 万年筆"
+    },
+    {
+      "i": 951,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 労働"
+    },
+    {
+      "i": 952,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 性癖"
+    },
+    {
+      "i": 953,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 理解"
+    },
+    {
+      "i": 954,
+      "gold": 3,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 戸締り"
+    },
+    {
+      "i": 955,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 恋"
+    },
+    {
+      "i": 956,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 観客席"
+    },
+    {
+      "i": 957,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 家"
+    },
+    {
+      "i": 958,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ファクシミリ"
+    },
+    {
+      "i": 959,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 愛国心"
+    },
+    {
+      "i": 960,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. インク"
+    },
+    {
+      "i": 961,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 池袋"
+    },
+    {
+      "i": 962,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. トランク"
+    },
+    {
+      "i": 963,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 歌う"
+    },
+    {
+      "i": 964,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 上達"
+    },
+    {
+      "i": 965,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 二者"
+    },
+    {
+      "i": 966,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 醜い"
+    },
+    {
+      "i": 967,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 飲食店"
+    },
+    {
+      "i": 968,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 調和"
+    },
+    {
+      "i": 969,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 電気"
+    },
+    {
+      "i": 970,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ダニ"
+    },
+    {
+      "i": 971,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. グラス"
+    },
+    {
+      "i": 972,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 八百屋"
+    },
+    {
+      "i": 973,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 詩歌"
+    },
+    {
+      "i": 974,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 水"
+    },
+    {
+      "i": 975,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 丸み"
+    },
+    {
+      "i": 976,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 暗黒星雲"
+    },
+    {
+      "i": 977,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 地下鉄"
+    },
+    {
+      "i": 978,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 上官が不適切な命令を下す"
+    },
+    {
+      "i": 979,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 戸棚"
+    },
+    {
+      "i": 980,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. コミュニティ"
+    },
+    {
+      "i": 981,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. お寺"
+    },
+    {
+      "i": 982,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. タイヤ"
+    },
+    {
+      "i": 983,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 部屋"
+    },
+    {
+      "i": 984,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. チョコレート"
+    },
+    {
+      "i": 985,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 食堂"
+    },
+    {
+      "i": 986,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. フロリダ州"
+    },
+    {
+      "i": 987,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 書店"
+    },
+    {
+      "i": 988,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 想起"
+    },
+    {
+      "i": 989,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. マーケット"
+    },
+    {
+      "i": 990,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 馬車"
+    },
+    {
+      "i": 991,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 鍵盤楽器"
+    },
+    {
+      "i": 992,
+      "gold": 1,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. テーブル"
+    },
+    {
+      "i": 993,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ペットショップ"
+    },
+    {
+      "i": 994,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 店"
+    },
+    {
+      "i": 995,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 人柄"
+    },
+    {
+      "i": 996,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 二酸化炭素排出権"
+    },
+    {
+      "i": 997,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 写真入り"
+    },
+    {
+      "i": 998,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 二階"
+    },
+    {
+      "i": 999,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 政府"
+    },
+    {
+      "i": 1000,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 手を出す"
+    },
+    {
+      "i": 1001,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 計算"
+    },
+    {
+      "i": 1002,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. つま先"
+    },
+    {
+      "i": 1003,
+      "gold": 0,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 壁"
+    },
+    {
+      "i": 1004,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 日誌"
+    },
+    {
+      "i": 1005,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 僧侶"
+    },
+    {
+      "i": 1006,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. つま先"
+    },
+    {
+      "i": 1007,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. パター"
+    },
+    {
+      "i": 1008,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. レストラン"
+    },
+    {
+      "i": 1009,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 蒸気"
+    },
+    {
+      "i": 1010,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 音楽家たち"
+    },
+    {
+      "i": 1011,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. テレビ"
+    },
+    {
+      "i": 1012,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 奥義"
+    },
+    {
+      "i": 1013,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. マット"
+    },
+    {
+      "i": 1014,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 暴行"
+    },
+    {
+      "i": 1015,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 植木"
+    },
+    {
+      "i": 1016,
+      "gold": 0,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 学習机"
+    },
+    {
+      "i": 1017,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. サクセス"
+    },
+    {
+      "i": 1018,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. お家"
+    },
+    {
+      "i": 1019,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 生き物"
+    },
+    {
+      "i": 1020,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ベビーフード"
+    },
+    {
+      "i": 1021,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 紅海"
+    },
+    {
+      "i": 1022,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 天体写真"
+    },
+    {
+      "i": 1023,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 唱歌集"
+    },
+    {
+      "i": 1024,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 洗面所"
+    },
+    {
+      "i": 1025,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 富"
+    },
+    {
+      "i": 1026,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 引き出し"
+    },
+    {
+      "i": 1027,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 踵"
+    },
+    {
+      "i": 1028,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 宝石店"
+    },
+    {
+      "i": 1029,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 優越感"
+    },
+    {
+      "i": 1030,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. マンション"
+    },
+    {
+      "i": 1031,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 祖父"
+    },
+    {
+      "i": 1032,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. おしっこする"
+    },
+    {
+      "i": 1033,
+      "gold": 2,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 足を片方ずつ前に出す"
+    },
+    {
+      "i": 1034,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 森"
+    },
+    {
+      "i": 1035,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 改札機"
+    },
+    {
+      "i": 1036,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 中継点"
+    },
+    {
+      "i": 1037,
+      "gold": 0,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ネクタイピン"
+    },
+    {
+      "i": 1038,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 緑のカーテン"
+    },
+    {
+      "i": 1039,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 資料"
+    },
+    {
+      "i": 1040,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 花火"
+    },
+    {
+      "i": 1041,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 中東"
+    },
+    {
+      "i": 1042,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 楽しむ"
+    },
+    {
+      "i": 1043,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. ブリッジ"
+    },
+    {
+      "i": 1044,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. ことば"
+    },
+    {
+      "i": 1045,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 蛇"
+    },
+    {
+      "i": 1046,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 地下道"
+    },
+    {
+      "i": 1047,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 釣り人"
+    },
+    {
+      "i": 1048,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. エジプト"
+    },
+    {
+      "i": 1049,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 仲直り"
+    },
+    {
+      "i": 1050,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 太陽"
+    },
+    {
+      "i": 1051,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. フレンズ"
+    },
+    {
+      "i": 1052,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 菌"
+    },
+    {
+      "i": 1053,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 市内"
+    },
+    {
+      "i": 1054,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. あんこ"
+    },
+    {
+      "i": 1055,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 板張り"
+    },
+    {
+      "i": 1056,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 文字を入力する"
+    },
+    {
+      "i": 1057,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 辞書"
+    },
+    {
+      "i": 1058,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 浮き輪"
+    },
+    {
+      "i": 1059,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 滝"
+    },
+    {
+      "i": 1060,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. プール"
+    },
+    {
+      "i": 1061,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 図書"
+    },
+    {
+      "i": 1062,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 汚物"
+    },
+    {
+      "i": 1063,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 民衆"
+    },
+    {
+      "i": 1064,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 田舎"
+    },
+    {
+      "i": 1065,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 床下"
+    },
+    {
+      "i": 1066,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 教室"
+    },
+    {
+      "i": 1067,
+      "gold": 3,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. サイコパス"
+    },
+    {
+      "i": 1068,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. アンデス山脈"
+    },
+    {
+      "i": 1069,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. マーケット"
+    },
+    {
+      "i": 1070,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 倉庫"
+    },
+    {
+      "i": 1071,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 計画"
+    },
+    {
+      "i": 1072,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 光合成"
+    },
+    {
+      "i": 1073,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 熱湯"
+    },
+    {
+      "i": 1074,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 電話ボックス"
+    },
+    {
+      "i": 1075,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 狩猟"
+    },
+    {
+      "i": 1076,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 北極"
+    },
+    {
+      "i": 1077,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 迫り来る"
+    },
+    {
+      "i": 1078,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 海辺"
+    },
+    {
+      "i": 1079,
+      "gold": 2,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 衆議院"
+    },
+    {
+      "i": 1080,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ネカフェ"
+    },
+    {
+      "i": 1081,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. ステレオ"
+    },
+    {
+      "i": 1082,
+      "gold": 0,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 寝る"
+    },
+    {
+      "i": 1083,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 団地妻"
+    },
+    {
+      "i": 1084,
+      "gold": 4,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 拭き掃除"
+    },
+    {
+      "i": 1085,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 劇場"
+    },
+    {
+      "i": 1086,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 零れ桜"
+    },
+    {
+      "i": 1087,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 塗装"
+    },
+    {
+      "i": 1088,
+      "gold": 3,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 滑落"
+    },
+    {
+      "i": 1089,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 飲み物を買う"
+    },
+    {
+      "i": 1090,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 調律"
+    },
+    {
+      "i": 1091,
+      "gold": 4,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. うれしい"
+    },
+    {
+      "i": 1092,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. メディアラボ"
+    },
+    {
+      "i": 1093,
+      "gold": 1,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 犬"
+    },
+    {
+      "i": 1094,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. ウインドークリーナー"
+    },
+    {
+      "i": 1095,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 飲み干す"
+    },
+    {
+      "i": 1096,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 長生きする"
+    },
+    {
+      "i": 1097,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. スーパー"
+    },
+    {
+      "i": 1098,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. ステーキハウス"
+    },
+    {
+      "i": 1099,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 充分な睡眠は"
+    },
+    {
+      "i": 1100,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. 写真入り"
+    },
+    {
+      "i": 1101,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 玉子"
+    },
+    {
+      "i": 1102,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 脳"
+    },
+    {
+      "i": 1103,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 人事部"
+    },
+    {
+      "i": 1104,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 防風林"
+    },
+    {
+      "i": 1105,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 稲光"
+    },
+    {
+      "i": 1106,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. コンピュータウイルス"
+    },
+    {
+      "i": 1107,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 芝"
+    },
+    {
+      "i": 1108,
+      "gold": 3,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. セーヌ"
+    },
+    {
+      "i": 1109,
+      "gold": 4,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 想像"
+    },
+    {
+      "i": 1110,
+      "gold": 0,
+      "pred": 0,
+      "pred_letter": "A",
+      "gen": "A. プラスチック"
+    },
+    {
+      "i": 1111,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. お子様ランチ"
+    },
+    {
+      "i": 1112,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 洋画"
+    },
+    {
+      "i": 1113,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. かぜ"
+    },
+    {
+      "i": 1114,
+      "gold": 1,
+      "pred": 3,
+      "pred_letter": "D",
+      "gen": "D. 眉間"
+    },
+    {
+      "i": 1115,
+      "gold": 4,
+      "pred": 4,
+      "pred_letter": "E",
+      "gen": "E. 鳥取市"
+    },
+    {
+      "i": 1116,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 気持ちを高揚させる"
+    },
+    {
+      "i": 1117,
+      "gold": 1,
+      "pred": 1,
+      "pred_letter": "B",
+      "gen": "B. 小屋"
+    },
+    {
+      "i": 1118,
+      "gold": 2,
+      "pred": 2,
+      "pred_letter": "C",
+      "gen": "C. 人体"
+    }
+  ]
+}

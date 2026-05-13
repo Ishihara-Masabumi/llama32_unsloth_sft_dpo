@@ -5,6 +5,10 @@ eval.jsonl の各行から、user 入力で生成させ、生成文中の [ANSWE
 """
 from __future__ import annotations
 
+import unsloth  # noqa: F401
+from unsloth import FastLanguageModel
+from unsloth.chat_templates import get_chat_template
+
 import argparse
 import json
 import re
@@ -12,8 +16,6 @@ from collections import defaultdict
 from pathlib import Path
 
 import torch
-from unsloth import FastLanguageModel
-from unsloth.chat_templates import get_chat_template
 
 MAX_SEQ_LEN = 1536
 

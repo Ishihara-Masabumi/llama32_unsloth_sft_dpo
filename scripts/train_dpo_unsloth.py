@@ -4,6 +4,12 @@ unsloth + trl の DPOTrainer を使用。
 """
 from __future__ import annotations
 
+import unsloth  # noqa: F401  IMPORTANT: must be imported before trl/transformers/peft
+from unsloth import FastLanguageModel, PatchDPOTrainer
+from unsloth.chat_templates import get_chat_template
+
+PatchDPOTrainer()
+
 import argparse
 import json
 from pathlib import Path
@@ -11,10 +17,6 @@ from pathlib import Path
 import torch
 from datasets import Dataset
 from trl import DPOConfig, DPOTrainer
-from unsloth import FastLanguageModel, PatchDPOTrainer
-from unsloth.chat_templates import get_chat_template
-
-PatchDPOTrainer()
 
 MAX_SEQ_LEN = 1024
 

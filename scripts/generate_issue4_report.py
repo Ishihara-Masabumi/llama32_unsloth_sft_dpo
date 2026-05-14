@@ -1,6 +1,6 @@
 """Issue #4 用の総合比較レポートを生成する。
 
-Issue #1/#2/#3 の結果 JSON を読み、職務経歴書の数値と並べた Markdown を作成。
+Issue #1/#2/#3 の結果 JSON を読み、リファレンス実装の数値と並べた Markdown を作成。
 """
 from __future__ import annotations
 
@@ -55,9 +55,9 @@ def main() -> None:
         return cur
 
     md = []
-    md.append("# Issue #4: 元実装(職務経歴書) vs unsloth 実装 総合比較レポート")
+    md.append("# Issue #4: 元実装(リファレンス値) vs unsloth 実装 総合比較レポート")
     md.append("")
-    md.append("Llama-3.2-3B-Instruct を `unsloth` で再学習した本リポジトリと、職務経歴書記載の元実装(PEFT+TRL ベース)を**同一データ・同一ハイパーパラメータ**で比較したサマリー。")
+    md.append("Llama-3.2-3B-Instruct を `unsloth` で再学習した本リポジトリと、リファレンス記載値の元実装(PEFT+TRL ベース)を**同一データ・同一ハイパーパラメータ**で比較したサマリー。")
     md.append("")
     md.append("## 環境")
     md.append("")

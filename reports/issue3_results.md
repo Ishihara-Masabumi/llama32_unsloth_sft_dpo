@@ -13,7 +13,7 @@
 
 ## 評価結果
 
-| メトリック | 元実装 (職務経歴書) | unsloth | 差分 |
+| メトリック | 元実装 (リファレンス値) | unsloth | 差分 |
 | --- | --- | --- | --- |
 | Overall (pre-Reasoning, post-MCQ-SFT のみ) | 25.00% | **20.63%** | -4.37 pt |
 | Overall (post-Reasoning SFT) | 53.59% | **50.63%** | -2.96 pt |

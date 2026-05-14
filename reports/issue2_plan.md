@@ -2,7 +2,7 @@
 
 ## 目的
 
-Issue #1 で得た MCQ-SFT 済モデル(`outputs/mcq_sft_answer_tag`)を初期化点として、Aratako 系日本語 Preference データで DPO を実施し、職務経歴書の数値と比較する。
+Issue #1 で得た MCQ-SFT 済モデル(`outputs/mcq_sft_answer_tag`)を初期化点として、Aratako 系日本語 Preference データで DPO を実施し、リファレンス実装の数値と比較する。
 
 ## データセット
 

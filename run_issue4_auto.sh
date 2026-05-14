@@ -36,7 +36,7 @@ LOG="logs/issue4_auto_$(date +%Y%m%d_%H%M%S).log"
 
     echo "[stage] posting Issue #4 to GitHub"
     gh issue create --repo Ishihara-Masabumi/llama32_unsloth_sft_dpo \
-        --title "Issue#4: 元実装(職務経歴書) vs unsloth実装 総合比較レポート" \
+        --title "Issue#4: 元実装(リファレンス値) vs unsloth実装 総合比較レポート" \
         --body-file reports/issue4_compare.md
 
     echo "[stage] committing report"

@@ -1,7 +1,7 @@
 # Issue #1: 多岐選択肢 Instruction Finetuning (unsloth 版)
 
 ## 目的
-元実装(職務経歴書記載)と同条件で、JCommonsenseQA を用いた多岐選択肢SFTを unsloth ベースで再現し、精度を比較する。
+元実装(リファレンス記載値)と同条件で、JCommonsenseQA を用いた多岐選択肢SFTを unsloth ベースで再現し、精度を比較する。
 
 ## 環境構築
 
@@ -29,8 +29,8 @@ conda activate llama32_unsloth && pip uninstall -y torchao
 ## データセット
 
 - `sbintuitions/JCommonsenseQA`
-- train: **8,939** 件 (※職務経歴書では 9,759 件と記載。HFのsbintuitions版splitが正規化された結果と思われる)
-- validation: **1,119** 件 (職務経歴書と一致)
+- train: **8,939** 件 (※リファレンス実装では 9,759 件と記載。HFのsbintuitions版splitが正規化された結果と思われる)
+- validation: **1,119** 件 (リファレンス実装と一致)
 - 5択 (A〜E)
 
 ## ハイパーパラメータ (元実装に揃える)
@@ -99,7 +99,7 @@ python scripts/eval_jcommonsenseqa.py \
 | SFT (letter_text "X. 回答") | _TBD_ | _TBD_ |
 | SFT (answer_tag "[ANSWER] X") | _TBD_ | _TBD_ |
 
-## 元実装(職務経歴書)との比較
+## 元実装(リファレンス値)との比較
 
 | モデル | 元実装 | unsloth 版 | 差分 |
 | --- | --- | --- | --- |
@@ -110,4 +110,4 @@ python scripts/eval_jcommonsenseqa.py \
 ## メモ
 
 - 元実装で baseline=22.16% という低い数値は、評価パーサが厳格 (おそらく `X.` または `[ANSWER] X` のみを許容) で、未学習のベースモデルが期待フォーマットを出さないために unparsable→不正解 となるためと推測。
-- 本リポジトリの評価パーサは `[ANSWER] X` > `^X.` > `\bX\b` の順で寛容。スモークテスト 5件で baseline=80% と高めに出るため、職務経歴書の数値と直接比較する際は注意。
+- 本リポジトリの評価パーサは `[ANSWER] X` > `^X.` > `\bX\b` の順で寛容。スモークテスト 5件で baseline=80% と高めに出るため、リファレンス実装の数値と直接比較する際は注意。

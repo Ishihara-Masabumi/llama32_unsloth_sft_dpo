@@ -27,7 +27,7 @@ DPO 目的関数(margin の最大化)で見ると、`rewards/accuracies` が **0
 
 ## 評価結果 (Chosen 選好精度、eval 784件)
 
-| 段階 | 元実装(職務経歴書) | unsloth 実装 | 差分(unsloth - 元) |
+| 段階 | 元実装(リファレンス値) | unsloth 実装 | 差分(unsloth - 元) |
 | --- | --- | --- | --- |
 | オリジナル(LoRAなし) | 53.06% | **52.30%** | -0.76 pt |
 | SFT 後(MCQ-SFT answer_tag) | 53.44% | **52.17%** | -1.27 pt |

@@ -2,7 +2,7 @@
 
 ## 目的
 
-Issue #1 で得た MCQ-SFT 済モデル(`outputs/mcq_sft_answer_tag`)を起点に、英語 reasoning データを用いて推論能力強化の SFT を実施。元実装(職務経歴書)と比較する。
+Issue #1 で得た MCQ-SFT 済モデル(`outputs/mcq_sft_answer_tag`)を起点に、英語 reasoning データを用いて推論能力強化の SFT を実施。元実装(リファレンス値)と比較する。
 
 ## データセット
 

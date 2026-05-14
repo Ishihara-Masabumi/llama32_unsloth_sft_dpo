@@ -1,0 +1,4502 @@
+{
+  "summary": {
+    "model": "meta-llama/Llama-3.2-3B-Instruct",
+    "adapter": "outputs/mcq_sft_answer_tag",
+    "n": 640,
+    "overall_accuracy": 0.20625,
+    "per_source": {
+      "gsm8k": 0.0,
+      "aqua_rat": 0.2875,
+      "hotpotqa": 0.0,
+      "strategyqa": 0.5375
+    },
+    "per_source_total": {
+      "gsm8k": 160,
+      "aqua_rat": 160,
+      "hotpotqa": 160,
+      "strategyqa": 160
+    }
+  },
+  "details": [
+    {
+      "i": 0,
+      "source": "gsm8k",
+      "gold": "165",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 1,
+      "source": "gsm8k",
+      "gold": "60",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 2,
+      "source": "gsm8k",
+      "gold": "10",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 3,
+      "source": "gsm8k",
+      "gold": "450",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 4,
+      "source": "gsm8k",
+      "gold": "4",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 5,
+      "source": "gsm8k",
+      "gold": "10",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 6,
+      "source": "gsm8k",
+      "gold": "180",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 7,
+      "source": "gsm8k",
+      "gold": "50",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 8,
+      "source": "gsm8k",
+      "gold": "6",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 9,
+      "source": "gsm8k",
+      "gold": "10",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 10,
+      "source": "gsm8k",
+      "gold": "44",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 11,
+      "source": "gsm8k",
+      "gold": "71",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 12,
+      "source": "gsm8k",
+      "gold": "301",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 13,
+      "source": "gsm8k",
+      "gold": "6",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 14,
+      "source": "gsm8k",
+      "gold": "20",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 15,
+      "source": "gsm8k",
+      "gold": "170",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 16,
+      "source": "gsm8k",
+      "gold": "38",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 17,
+      "source": "gsm8k",
+      "gold": "2",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 18,
+      "source": "gsm8k",
+      "gold": "30",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 19,
+      "source": "gsm8k",
+      "gold": "18",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 20,
+      "source": "gsm8k",
+      "gold": "50",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 21,
+      "source": "gsm8k",
+      "gold": "42",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 22,
+      "source": "gsm8k",
+      "gold": "7",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 23,
+      "source": "gsm8k",
+      "gold": "32",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 24,
+      "source": "gsm8k",
+      "gold": "10",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 25,
+      "source": "gsm8k",
+      "gold": "48",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 26,
+      "source": "gsm8k",
+      "gold": "7",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 27,
+      "source": "gsm8k",
+      "gold": "8",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 28,
+      "source": "gsm8k",
+      "gold": "4",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 29,
+      "source": "gsm8k",
+      "gold": "155",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 30,
+      "source": "gsm8k",
+      "gold": "25",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 31,
+      "source": "gsm8k",
+      "gold": "61",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 32,
+      "source": "gsm8k",
+      "gold": "10",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 33,
+      "source": "gsm8k",
+      "gold": "7",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 34,
+      "source": "gsm8k",
+      "gold": "14",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 35,
+      "source": "gsm8k",
+      "gold": "254",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 36,
+      "source": "gsm8k",
+      "gold": "90",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 37,
+      "source": "gsm8k",
+      "gold": "28",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 38,
+      "source": "gsm8k",
+      "gold": "3",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 39,
+      "source": "gsm8k",
+      "gold": "550",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 40,
+      "source": "gsm8k",
+      "gold": "92",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 41,
+      "source": "gsm8k",
+      "gold": "30",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 42,
+      "source": "gsm8k",
+      "gold": "1065",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 43,
+      "source": "gsm8k",
+      "gold": "5",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 44,
+      "source": "gsm8k",
+      "gold": "6",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 45,
+      "source": "gsm8k",
+      "gold": "38",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 46,
+      "source": "gsm8k",
+      "gold": "14",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 47,
+      "source": "gsm8k",
+      "gold": "43",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 48,
+      "source": "gsm8k",
+      "gold": "60",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 49,
+      "source": "gsm8k",
+      "gold": "80",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 50,
+      "source": "gsm8k",
+      "gold": "8",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 51,
+      "source": "gsm8k",
+      "gold": "25",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 52,
+      "source": "gsm8k",
+      "gold": "7",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 53,
+      "source": "gsm8k",
+      "gold": "30",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 54,
+      "source": "gsm8k",
+      "gold": "28",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 55,
+      "source": "gsm8k",
+      "gold": "171",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 56,
+      "source": "gsm8k",
+      "gold": "75",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 57,
+      "source": "gsm8k",
+      "gold": "208000",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 58,
+      "source": "gsm8k",
+      "gold": "10",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 59,
+      "source": "gsm8k",
+      "gold": "480",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 60,
+      "source": "gsm8k",
+      "gold": "1140",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 61,
+      "source": "gsm8k",
+      "gold": "20",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 62,
+      "source": "gsm8k",
+      "gold": "400",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 63,
+      "source": "gsm8k",
+      "gold": "2050",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 64,
+      "source": "gsm8k",
+      "gold": "1035",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 65,
+      "source": "gsm8k",
+      "gold": "8",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 66,
+      "source": "gsm8k",
+      "gold": "500",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 67,
+      "source": "gsm8k",
+      "gold": "4",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 68,
+      "source": "gsm8k",
+      "gold": "1000",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 69,
+      "source": "gsm8k",
+      "gold": "285",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 70,
+      "source": "gsm8k",
+      "gold": "15",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 71,
+      "source": "gsm8k",
+      "gold": "15",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 72,
+      "source": "gsm8k",
+      "gold": "6",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 73,
+      "source": "gsm8k",
+      "gold": "13",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 74,
+      "source": "gsm8k",
+      "gold": "36",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 75,
+      "source": "gsm8k",
+      "gold": "38400",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 76,
+      "source": "gsm8k",
+      "gold": "34",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 77,
+      "source": "gsm8k",
+      "gold": "15",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 78,
+      "source": "gsm8k",
+      "gold": "60",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 79,
+      "source": "gsm8k",
+      "gold": "22",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 80,
+      "source": "gsm8k",
+      "gold": "7",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 81,
+      "source": "gsm8k",
+      "gold": "430",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 82,
+      "source": "gsm8k",
+      "gold": "30",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 83,
+      "source": "gsm8k",
+      "gold": "6",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 84,
+      "source": "gsm8k",
+      "gold": "4",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 85,
+      "source": "gsm8k",
+      "gold": "30",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 86,
+      "source": "gsm8k",
+      "gold": "24",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 87,
+      "source": "gsm8k",
+      "gold": "640",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 88,
+      "source": "gsm8k",
+      "gold": "2400",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 89,
+      "source": "gsm8k",
+      "gold": "24",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 90,
+      "source": "gsm8k",
+      "gold": "72",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 91,
+      "source": "gsm8k",
+      "gold": "660",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 92,
+      "source": "gsm8k",
+      "gold": "256",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 93,
+      "source": "gsm8k",
+      "gold": "8",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 94,
+      "source": "gsm8k",
+      "gold": "320",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 95,
+      "source": "gsm8k",
+      "gold": "115",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 96,
+      "source": "gsm8k",
+      "gold": "2950",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 97,
+      "source": "gsm8k",
+      "gold": "24",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 98,
+      "source": "gsm8k",
+      "gold": "121",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 99,
+      "source": "gsm8k",
+      "gold": "3",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 100,
+      "source": "gsm8k",
+      "gold": "26",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 101,
+      "source": "gsm8k",
+      "gold": "354",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 102,
+      "source": "gsm8k",
+      "gold": "20",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 103,
+      "source": "gsm8k",
+      "gold": "68",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 104,
+      "source": "gsm8k",
+      "gold": "15",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 105,
+      "source": "gsm8k",
+      "gold": "300",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 106,
+      "source": "gsm8k",
+      "gold": "170",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 107,
+      "source": "gsm8k",
+      "gold": "12",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 108,
+      "source": "gsm8k",
+      "gold": "40",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 109,
+      "source": "gsm8k",
+      "gold": "3",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 110,
+      "source": "gsm8k",
+      "gold": "200",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 111,
+      "source": "gsm8k",
+      "gold": "2000",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 112,
+      "source": "gsm8k",
+      "gold": "76",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 113,
+      "source": "gsm8k",
+      "gold": "9",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 114,
+      "source": "gsm8k",
+      "gold": "200",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 115,
+      "source": "gsm8k",
+      "gold": "375",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 116,
+      "source": "gsm8k",
+      "gold": "400",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 117,
+      "source": "gsm8k",
+      "gold": "36",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 118,
+      "source": "gsm8k",
+      "gold": "19",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 119,
+      "source": "gsm8k",
+      "gold": "27",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 120,
+      "source": "gsm8k",
+      "gold": "48",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 121,
+      "source": "gsm8k",
+      "gold": "10",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 122,
+      "source": "gsm8k",
+      "gold": "264",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 123,
+      "source": "gsm8k",
+      "gold": "3",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 124,
+      "source": "gsm8k",
+      "gold": "10",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 125,
+      "source": "gsm8k",
+      "gold": "2",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 126,
+      "source": "gsm8k",
+      "gold": "2",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 127,
+      "source": "gsm8k",
+      "gold": "72",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 128,
+      "source": "gsm8k",
+      "gold": "297",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 129,
+      "source": "gsm8k",
+      "gold": "37",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 130,
+      "source": "gsm8k",
+      "gold": "7200",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 131,
+      "source": "gsm8k",
+      "gold": "99",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 132,
+      "source": "gsm8k",
+      "gold": "205",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 133,
+      "source": "gsm8k",
+      "gold": "6",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 134,
+      "source": "gsm8k",
+      "gold": "132",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 135,
+      "source": "gsm8k",
+      "gold": "42",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 136,
+      "source": "gsm8k",
+      "gold": "565",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 137,
+      "source": "gsm8k",
+      "gold": "2",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 138,
+      "source": "gsm8k",
+      "gold": "60",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 139,
+      "source": "gsm8k",
+      "gold": "61",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 140,
+      "source": "gsm8k",
+      "gold": "120",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 141,
+      "source": "gsm8k",
+      "gold": "448",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 142,
+      "source": "gsm8k",
+      "gold": "2400",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 143,
+      "source": "gsm8k",
+      "gold": "17",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 144,
+      "source": "gsm8k",
+      "gold": "57",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 145,
+      "source": "gsm8k",
+      "gold": "5",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 146,
+      "source": "gsm8k",
+      "gold": "10",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 147,
+      "source": "gsm8k",
+      "gold": "7",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 148,
+      "source": "gsm8k",
+      "gold": "33",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 149,
+      "source": "gsm8k",
+      "gold": "120",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 150,
+      "source": "gsm8k",
+      "gold": "9,492",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 151,
+      "source": "gsm8k",
+      "gold": "86,400",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 152,
+      "source": "gsm8k",
+      "gold": "12",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 153,
+      "source": "gsm8k",
+      "gold": "2900",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 154,
+      "source": "gsm8k",
+      "gold": "300",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 155,
+      "source": "gsm8k",
+      "gold": "54",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 156,
+      "source": "gsm8k",
+      "gold": "8",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 157,
+      "source": "gsm8k",
+      "gold": "50",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 158,
+      "source": "gsm8k",
+      "gold": "22",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 159,
+      "source": "gsm8k",
+      "gold": "135",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 160,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "D",
+      "ok": false
+    },
+    {
+      "i": 161,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "E",
+      "ok": false
+    },
+    {
+      "i": 162,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B",
+      "ok": true
+    },
+    {
+      "i": 163,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 164,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 165,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 166,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 167,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 168,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "A",
+      "ok": false
+    },
+    {
+      "i": 169,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "A",
+      "ok": false
+    },
+    {
+      "i": 170,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 171,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 172,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "D",
+      "ok": false
+    },
+    {
+      "i": 173,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 174,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B",
+      "ok": true
+    },
+    {
+      "i": 175,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 176,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "D",
+      "ok": false
+    },
+    {
+      "i": 177,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 178,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "A",
+      "ok": false
+    },
+    {
+      "i": 179,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 180,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 181,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "A",
+      "ok": false
+    },
+    {
+      "i": 182,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B",
+      "ok": true
+    },
+    {
+      "i": 183,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "D",
+      "ok": false
+    },
+    {
+      "i": 184,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B",
+      "ok": true
+    },
+    {
+      "i": 185,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 186,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 187,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 188,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "A",
+      "ok": true
+    },
+    {
+      "i": 189,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 190,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B",
+      "ok": true
+    },
+    {
+      "i": 191,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "A",
+      "ok": false
+    },
+    {
+      "i": 192,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B",
+      "ok": true
+    },
+    {
+      "i": 193,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 194,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 195,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 196,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 197,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 198,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "E",
+      "ok": true
+    },
+    {
+      "i": 199,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 200,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 201,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "D",
+      "ok": false
+    },
+    {
+      "i": 202,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 203,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 204,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "A",
+      "ok": false
+    },
+    {
+      "i": 205,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B",
+      "ok": true
+    },
+    {
+      "i": 206,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 207,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 208,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 209,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "D",
+      "ok": false
+    },
+    {
+      "i": 210,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 211,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 212,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 213,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 214,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 215,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 216,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "A",
+      "ok": true
+    },
+    {
+      "i": 217,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "D",
+      "ok": false
+    },
+    {
+      "i": 218,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "D",
+      "ok": false
+    },
+    {
+      "i": 219,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 220,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 221,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 222,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "D",
+      "ok": false
+    },
+    {
+      "i": 223,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 224,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 225,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "D",
+      "ok": false
+    },
+    {
+      "i": 226,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 227,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B",
+      "ok": true
+    },
+    {
+      "i": 228,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 229,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 230,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 231,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 232,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 233,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 234,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "D",
+      "ok": false
+    },
+    {
+      "i": 235,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 236,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 237,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 238,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 239,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 240,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 241,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "B)37%",
+      "ok": false
+    },
+    {
+      "i": 242,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 243,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 244,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 245,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 246,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 247,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "E",
+      "ok": true
+    },
+    {
+      "i": 248,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "A",
+      "ok": false
+    },
+    {
+      "i": 249,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 250,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 251,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 252,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B",
+      "ok": true
+    },
+    {
+      "i": 253,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 254,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 255,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "D",
+      "ok": false
+    },
+    {
+      "i": 256,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B",
+      "ok": true
+    },
+    {
+      "i": 257,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 258,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 259,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 260,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 261,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B",
+      "ok": true
+    },
+    {
+      "i": 262,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "A",
+      "ok": true
+    },
+    {
+      "i": 263,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 264,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 265,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 266,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "A",
+      "ok": false
+    },
+    {
+      "i": 267,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 268,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 269,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 270,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "A",
+      "ok": true
+    },
+    {
+      "i": 271,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B",
+      "ok": true
+    },
+    {
+      "i": 272,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B",
+      "ok": true
+    },
+    {
+      "i": 273,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 274,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B",
+      "ok": true
+    },
+    {
+      "i": 275,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 276,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 277,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 278,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 279,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "A",
+      "ok": true
+    },
+    {
+      "i": 280,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 281,
+      "source": "aqua_rat",
+      "gold": "E",
+      "pred": "A",
+      "ok": false
+    },
+    {
+      "i": 282,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 283,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 284,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "D",
+      "ok": true
+    },
+    {
+      "i": 285,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "D",
+      "ok": true
+    },
+    {
+      "i": 286,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 287,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B",
+      "ok": true
+    },
+    {
+      "i": 288,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 289,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 290,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 291,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 292,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 293,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 294,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 295,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "B)992",
+      "ok": false
+    },
+    {
+      "i": 296,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "D",
+      "ok": false
+    },
+    {
+      "i": 297,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 298,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 299,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 300,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "E",
+      "ok": false
+    },
+    {
+      "i": 301,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "D",
+      "ok": true
+    },
+    {
+      "i": 302,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 303,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "A",
+      "ok": true
+    },
+    {
+      "i": 304,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 305,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 306,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "D",
+      "ok": false
+    },
+    {
+      "i": 307,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 308,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 309,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 310,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "A",
+      "ok": true
+    },
+    {
+      "i": 311,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "A",
+      "ok": true
+    },
+    {
+      "i": 312,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 313,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 314,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "C",
+      "ok": false
+    },
+    {
+      "i": 315,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "E",
+      "ok": false
+    },
+    {
+      "i": 316,
+      "source": "aqua_rat",
+      "gold": "C",
+      "pred": "C",
+      "ok": true
+    },
+    {
+      "i": 317,
+      "source": "aqua_rat",
+      "gold": "A",
+      "pred": "B",
+      "ok": false
+    },
+    {
+      "i": 318,
+      "source": "aqua_rat",
+      "gold": "B",
+      "pred": "B) $300",
+      "ok": true
+    },
+    {
+      "i": 319,
+      "source": "aqua_rat",
+      "gold": "D",
+      "pred": "A",
+      "ok": false
+    },
+    {
+      "i": 320,
+      "source": "hotpotqa",
+      "gold": "1965",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 321,
+      "source": "hotpotqa",
+      "gold": "England",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 322,
+      "source": "hotpotqa",
+      "gold": "journalist and writer.",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 323,
+      "source": "hotpotqa",
+      "gold": "The West Lancashire Evening Gazette",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 324,
+      "source": "hotpotqa",
+      "gold": "Los Angeles Lakers",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 325,
+      "source": "hotpotqa",
+      "gold": "Natalie Anne Merchant",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 326,
+      "source": "hotpotqa",
+      "gold": "Lee Na-jeong",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 327,
+      "source": "hotpotqa",
+      "gold": "Grossherzogliches (Grand Ducal) Theater",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 328,
+      "source": "hotpotqa",
+      "gold": "Denver Broncos",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 329,
+      "source": "hotpotqa",
+      "gold": "David Rockefeller",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 330,
+      "source": "hotpotqa",
+      "gold": "Björn Skifs",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 331,
+      "source": "hotpotqa",
+      "gold": "1900",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 332,
+      "source": "hotpotqa",
+      "gold": "Misgivings",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 333,
+      "source": "hotpotqa",
+      "gold": "1996",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 334,
+      "source": "hotpotqa",
+      "gold": "the Bee Gees",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 335,
+      "source": "hotpotqa",
+      "gold": "Washington",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 336,
+      "source": "hotpotqa",
+      "gold": "yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 337,
+      "source": "hotpotqa",
+      "gold": "Chinese",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 338,
+      "source": "hotpotqa",
+      "gold": "Sam Calagione",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 339,
+      "source": "hotpotqa",
+      "gold": "Hakea",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 340,
+      "source": "hotpotqa",
+      "gold": "Shia LaBeouf",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 341,
+      "source": "hotpotqa",
+      "gold": "November 20, 1963",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 342,
+      "source": "hotpotqa",
+      "gold": "developed by Ivasim in 1980s",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 343,
+      "source": "hotpotqa",
+      "gold": "Southern Methodist University",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 344,
+      "source": "hotpotqa",
+      "gold": "R2Bees",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 345,
+      "source": "hotpotqa",
+      "gold": "\"Shake It Up\"",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 346,
+      "source": "hotpotqa",
+      "gold": "Ladies",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 347,
+      "source": "hotpotqa",
+      "gold": "New Jersey",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 348,
+      "source": "hotpotqa",
+      "gold": "NBC's Discovery Kids",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 349,
+      "source": "hotpotqa",
+      "gold": "United Kingdom",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 350,
+      "source": "hotpotqa",
+      "gold": "Jhené Aiko",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 351,
+      "source": "hotpotqa",
+      "gold": "Karate Baka Ichidai",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 352,
+      "source": "hotpotqa",
+      "gold": "William \"Bill\" Murray",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 353,
+      "source": "hotpotqa",
+      "gold": "Duke of Wellington",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 354,
+      "source": "hotpotqa",
+      "gold": "Peter Francis Straub",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 355,
+      "source": "hotpotqa",
+      "gold": "Listen to Britain",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 356,
+      "source": "hotpotqa",
+      "gold": "4 May 1952)",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 357,
+      "source": "hotpotqa",
+      "gold": "1810",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 358,
+      "source": "hotpotqa",
+      "gold": "Coach Carter",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 359,
+      "source": "hotpotqa",
+      "gold": "British",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 360,
+      "source": "hotpotqa",
+      "gold": "the University of Nebraska system",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 361,
+      "source": "hotpotqa",
+      "gold": "Yakov Alexandrovich Protazanov",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 362,
+      "source": "hotpotqa",
+      "gold": "The Game Plan",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 363,
+      "source": "hotpotqa",
+      "gold": "Twin Peaks",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 364,
+      "source": "hotpotqa",
+      "gold": "Blanche Barrow",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 365,
+      "source": "hotpotqa",
+      "gold": "January 20, 2016",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 366,
+      "source": "hotpotqa",
+      "gold": "Ishita Dutta",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 367,
+      "source": "hotpotqa",
+      "gold": "1952",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 368,
+      "source": "hotpotqa",
+      "gold": "Hiro Hamada",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 369,
+      "source": "hotpotqa",
+      "gold": "rock",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 370,
+      "source": "hotpotqa",
+      "gold": "Bank of America",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 371,
+      "source": "hotpotqa",
+      "gold": "Tara Elders",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 372,
+      "source": "hotpotqa",
+      "gold": "8,711",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 373,
+      "source": "hotpotqa",
+      "gold": "TVB television",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 374,
+      "source": "hotpotqa",
+      "gold": "tennis player",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 375,
+      "source": "hotpotqa",
+      "gold": "1956",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 376,
+      "source": "hotpotqa",
+      "gold": "US$300,000",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 377,
+      "source": "hotpotqa",
+      "gold": "the Devil's Broom fire",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 378,
+      "source": "hotpotqa",
+      "gold": "American",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 379,
+      "source": "hotpotqa",
+      "gold": "Islamabad",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 380,
+      "source": "hotpotqa",
+      "gold": "Schneefernerhaus",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 381,
+      "source": "hotpotqa",
+      "gold": "three-door",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 382,
+      "source": "hotpotqa",
+      "gold": "David M. Evans",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 383,
+      "source": "hotpotqa",
+      "gold": "The Forum Shops at Caesars",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 384,
+      "source": "hotpotqa",
+      "gold": "Clark County",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 385,
+      "source": "hotpotqa",
+      "gold": "11 October 1957",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 386,
+      "source": "hotpotqa",
+      "gold": "Ortigas Center",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 387,
+      "source": "hotpotqa",
+      "gold": "Remington",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 388,
+      "source": "hotpotqa",
+      "gold": "Cleveland",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 389,
+      "source": "hotpotqa",
+      "gold": "May 16, 1946",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 390,
+      "source": "hotpotqa",
+      "gold": "24,841",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 391,
+      "source": "hotpotqa",
+      "gold": "Augusta",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 392,
+      "source": "hotpotqa",
+      "gold": "Jay Presson Allen",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 393,
+      "source": "hotpotqa",
+      "gold": "Johnson & Johnson",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 394,
+      "source": "hotpotqa",
+      "gold": "coriander leaves",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 395,
+      "source": "hotpotqa",
+      "gold": "1959",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 396,
+      "source": "hotpotqa",
+      "gold": "yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 397,
+      "source": "hotpotqa",
+      "gold": "1910",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 398,
+      "source": "hotpotqa",
+      "gold": "Chris Anderson",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 399,
+      "source": "hotpotqa",
+      "gold": "Francis Stokes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 400,
+      "source": "hotpotqa",
+      "gold": "Denis Villeneuve",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 401,
+      "source": "hotpotqa",
+      "gold": "Wizard of Westwood",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 402,
+      "source": "hotpotqa",
+      "gold": "no",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 403,
+      "source": "hotpotqa",
+      "gold": "Patricia Neal",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 404,
+      "source": "hotpotqa",
+      "gold": "Alexander Osipovich Gelfond",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 405,
+      "source": "hotpotqa",
+      "gold": "Joseph L. Bruno Stadium",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 406,
+      "source": "hotpotqa",
+      "gold": "Robin Pingeton",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 407,
+      "source": "hotpotqa",
+      "gold": "Mary Pierce",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 408,
+      "source": "hotpotqa",
+      "gold": "Canton, Massachusetts",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 409,
+      "source": "hotpotqa",
+      "gold": "Bob Iger",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 410,
+      "source": "hotpotqa",
+      "gold": "no",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 411,
+      "source": "hotpotqa",
+      "gold": "1798",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 412,
+      "source": "hotpotqa",
+      "gold": "film director",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 413,
+      "source": "hotpotqa",
+      "gold": "English",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 414,
+      "source": "hotpotqa",
+      "gold": "Us Weekly",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 415,
+      "source": "hotpotqa",
+      "gold": "Cognizant",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 416,
+      "source": "hotpotqa",
+      "gold": "July 15, 1935",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 417,
+      "source": "hotpotqa",
+      "gold": "Villa Riachuelo",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 418,
+      "source": "hotpotqa",
+      "gold": "Target Field",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 419,
+      "source": "hotpotqa",
+      "gold": "Sunday",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 420,
+      "source": "hotpotqa",
+      "gold": "January 27, 1948",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 421,
+      "source": "hotpotqa",
+      "gold": "Caesars Entertainment Corporation",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 422,
+      "source": "hotpotqa",
+      "gold": "Shin Su-ran",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 423,
+      "source": "hotpotqa",
+      "gold": "no",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 424,
+      "source": "hotpotqa",
+      "gold": "East India Company",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 425,
+      "source": "hotpotqa",
+      "gold": "Mason",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 426,
+      "source": "hotpotqa",
+      "gold": "Shim Hyung-rae",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 427,
+      "source": "hotpotqa",
+      "gold": "National Democratic Alliance",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 428,
+      "source": "hotpotqa",
+      "gold": "Rangers Football Club",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 429,
+      "source": "hotpotqa",
+      "gold": "Jet",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 430,
+      "source": "hotpotqa",
+      "gold": "from 1956 to 1996",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 431,
+      "source": "hotpotqa",
+      "gold": "People's Republic of China",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 432,
+      "source": "hotpotqa",
+      "gold": "Aloe",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 433,
+      "source": "hotpotqa",
+      "gold": "ESPN",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 434,
+      "source": "hotpotqa",
+      "gold": "Loud",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 435,
+      "source": "hotpotqa",
+      "gold": "consumer electronics, computer and telecommunication goods",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 436,
+      "source": "hotpotqa",
+      "gold": "2011",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 437,
+      "source": "hotpotqa",
+      "gold": "Carina",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 438,
+      "source": "hotpotqa",
+      "gold": "1787",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 439,
+      "source": "hotpotqa",
+      "gold": "Marilyn Manson",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 440,
+      "source": "hotpotqa",
+      "gold": "British",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 441,
+      "source": "hotpotqa",
+      "gold": "Reginald Denny",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 442,
+      "source": "hotpotqa",
+      "gold": "Portezuelo Formation",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 443,
+      "source": "hotpotqa",
+      "gold": "Lewis's",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 444,
+      "source": "hotpotqa",
+      "gold": "Splash",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 445,
+      "source": "hotpotqa",
+      "gold": "Deep Pal",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 446,
+      "source": "hotpotqa",
+      "gold": "Swain and Graham",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 447,
+      "source": "hotpotqa",
+      "gold": "Flinders Street railway station",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 448,
+      "source": "hotpotqa",
+      "gold": "The Secret Life of the American Teenager",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 449,
+      "source": "hotpotqa",
+      "gold": "Haiti",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 450,
+      "source": "hotpotqa",
+      "gold": "Ottis Toole",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 451,
+      "source": "hotpotqa",
+      "gold": "Europe",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 452,
+      "source": "hotpotqa",
+      "gold": "Greater Manchester",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 453,
+      "source": "hotpotqa",
+      "gold": "yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 454,
+      "source": "hotpotqa",
+      "gold": "St Kilda",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 455,
+      "source": "hotpotqa",
+      "gold": "The Office",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 456,
+      "source": "hotpotqa",
+      "gold": "Huld",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 457,
+      "source": "hotpotqa",
+      "gold": "a grade school and high school",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 458,
+      "source": "hotpotqa",
+      "gold": "dog",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 459,
+      "source": "hotpotqa",
+      "gold": "NaCO",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 460,
+      "source": "hotpotqa",
+      "gold": "Alberto Zaccheroni",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 461,
+      "source": "hotpotqa",
+      "gold": "experience point",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 462,
+      "source": "hotpotqa",
+      "gold": "Mildred J. Hill",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 463,
+      "source": "hotpotqa",
+      "gold": "yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 464,
+      "source": "hotpotqa",
+      "gold": "the London Stock Exchange",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 465,
+      "source": "hotpotqa",
+      "gold": "Salem, Missouri,",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 466,
+      "source": "hotpotqa",
+      "gold": "tennis",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 467,
+      "source": "hotpotqa",
+      "gold": "Ravi Udyawar",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 468,
+      "source": "hotpotqa",
+      "gold": "Dave Foley",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 469,
+      "source": "hotpotqa",
+      "gold": "the quiet Beatle",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 470,
+      "source": "hotpotqa",
+      "gold": "Dick Van Patten",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 471,
+      "source": "hotpotqa",
+      "gold": "Italian Baroque",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 472,
+      "source": "hotpotqa",
+      "gold": "seventh",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 473,
+      "source": "hotpotqa",
+      "gold": "10 November 1944",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 474,
+      "source": "hotpotqa",
+      "gold": "all the chemical elements",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 475,
+      "source": "hotpotqa",
+      "gold": "The History Boys",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 476,
+      "source": "hotpotqa",
+      "gold": "traditionalist root sounds (similar to neotraditional country) with the outspoken, care-free views of outlaw country",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 477,
+      "source": "hotpotqa",
+      "gold": "Ghana",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 478,
+      "source": "hotpotqa",
+      "gold": "Jessie",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 479,
+      "source": "hotpotqa",
+      "gold": "Superior",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 480,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 481,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 482,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 483,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 484,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 485,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 486,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 487,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 488,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 489,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 490,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 491,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 492,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 493,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 494,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 495,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 496,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 497,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 498,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 499,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 500,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 501,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 502,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 503,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 504,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 505,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 506,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 507,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 508,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 509,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 510,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 511,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 512,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 513,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 514,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 515,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 516,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 517,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 518,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 519,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 520,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 521,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 522,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 523,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 524,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 525,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 526,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 527,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 528,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 529,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 530,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 531,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 532,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 533,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 534,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 535,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 536,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 537,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 538,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 539,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 540,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 541,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 542,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 543,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 544,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 545,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 546,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 547,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 548,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 549,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 550,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 551,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 552,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 553,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 554,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 555,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 556,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 557,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 558,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 559,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 560,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 561,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 562,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 563,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 564,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 565,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 566,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 567,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 568,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 569,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 570,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 571,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 572,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 573,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 574,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 575,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 576,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 577,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 578,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 579,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 580,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 581,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 582,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 583,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 584,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 585,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 586,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 587,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 588,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 589,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 590,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 591,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 592,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 593,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 594,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 595,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 596,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 597,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 598,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 599,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 600,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 601,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 602,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 603,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 604,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 605,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 606,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 607,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 608,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 609,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 610,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 611,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 612,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 613,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 614,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 615,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 616,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 617,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 618,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 619,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 620,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 621,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 622,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 623,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 624,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 625,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 626,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 627,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 628,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 629,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 630,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 631,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 632,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 633,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 634,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 635,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 636,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    },
+    {
+      "i": 637,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 638,
+      "source": "strategyqa",
+      "gold": "No",
+      "pred": "",
+      "ok": true
+    },
+    {
+      "i": 639,
+      "source": "strategyqa",
+      "gold": "Yes",
+      "pred": "",
+      "ok": false
+    }
+  ]
+}

@@ -60,7 +60,7 @@ def aqua_rows(n: int):
 
 
 def hotpotqa_rows(n: int):
-    ds = load_dataset("hotpot_qa", "distractor", split="train", trust_remote_code=True)
+    ds = load_dataset("hotpot_qa", "distractor", split="train")
     out = []
     for r in ds:
         # context は2-3パラ程度に圧縮(token節約)
@@ -93,8 +93,10 @@ def strategyqa_rows(n: int):
     for r in ds:
         q = r["question"]
         ans = "Yes" if r["answer"] else "No"
-        facts = r.get("facts", [])
-        thought = " ".join(facts) if facts else "Reason step by step from background knowledge."
+        facts = r.get("facts", "")
+        if isinstance(facts, list):
+            facts = " ".join(facts)
+        thought = facts if facts else "Reason step by step from background knowledge."
         out.append({
             "messages": [
                 {"role": "user", "content": q},
